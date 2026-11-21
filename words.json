@@ -1,0 +1,3606 @@
+{
+  "categories": [
+    {
+      "name": "Kennenlernen",
+      "emoji": "👋",
+      "tip": "Me presento: Ich stelle mich vor"
+    },
+    {
+      "name": "Small Talk",
+      "emoji": "☀️",
+      "tip": "Fa caldo: Es ist heiß"
+    },
+    {
+      "name": "Gefühle & Meinungen",
+      "emoji": "❤️",
+      "tip": "Mi sembra: Es scheint mir"
+    },
+    {
+      "name": "Pläne & Termine",
+      "emoji": "📅",
+      "tip": "Ci vediamo: Wir sehen uns"
+    },
+    {
+      "name": "Vergangenheit I",
+      "emoji": "🕰️",
+      "tip": "Ho fatto: Ich habe gemacht"
+    },
+    {
+      "name": "Vergangenheit II",
+      "emoji": "🚶",
+      "tip": "Sono andato: Ich bin gegangen"
+    },
+    {
+      "name": "Zukunft & Wünsche",
+      "emoji": "✨",
+      "tip": "Vorrei: Ich würde gern"
+    },
+    {
+      "name": "Restaurant & Genuss",
+      "emoji": "🍝",
+      "tip": "Il conto: Die Rechnung"
+    },
+    {
+      "name": "Einkaufen",
+      "emoji": "🛍️",
+      "tip": "Quanto viene: Was kostet es"
+    },
+    {
+      "name": "Unterwegs",
+      "emoji": "🚆",
+      "tip": "Dov’è: Wo ist"
+    },
+    {
+      "name": "Reisen & Unterkunft",
+      "emoji": "🧳",
+      "tip": "La prenotazione: Die Buchung"
+    },
+    {
+      "name": "Arbeit & Beruf",
+      "emoji": "💼",
+      "tip": "La riunione: Die Besprechung"
+    },
+    {
+      "name": "Familie & Freunde",
+      "emoji": "👨‍👩‍👧",
+      "tip": "Gli amici: Die Freunde"
+    },
+    {
+      "name": "Gesundheit & Hilfe",
+      "emoji": "🩺",
+      "tip": "Mi fa male: Es tut weh"
+    },
+    {
+      "name": "Hobbys & Freizeit",
+      "emoji": "🎨",
+      "tip": "Il tempo libero: Freizeit"
+    },
+    {
+      "name": "Erzählen & Beschreiben",
+      "emoji": "🗣️",
+      "tip": "È successo: Es ist passiert"
+    },
+    {
+      "name": "Fragen & Reaktionen",
+      "emoji": "❓",
+      "tip": "Come mai: Wieso"
+    },
+    {
+      "name": "Probleme lösen",
+      "emoji": "🧩",
+      "tip": "C’è un problema: Es gibt ein Problem"
+    },
+    {
+      "name": "Nützliche Strukturen",
+      "emoji": "🔗",
+      "tip": "Anche se: Obwohl"
+    },
+    {
+      "name": "Italienisch & Spanisch",
+      "emoji": "🇪🇸",
+      "tip": "Falsi amici: Falsche Freunde"
+    }
+  ],
+  "words": [
+    {
+      "id": 1,
+      "it": "Mi fa piacere",
+      "de": "Das freut mich",
+      "category": 0,
+      "example": "Mi fa piacere"
+    },
+    {
+      "id": 2,
+      "it": "Da quanto tempo!",
+      "de": "Lange nicht gesehen!",
+      "category": 0,
+      "example": "Da quanto tempo!"
+    },
+    {
+      "id": 3,
+      "it": "Come te la passi?",
+      "de": "Wie geht es dir so?",
+      "category": 0,
+      "example": "Come te la passi?"
+    },
+    {
+      "id": 4,
+      "it": "Non ci conosciamo ancora",
+      "de": "Wir kennen uns noch nicht",
+      "category": 0,
+      "example": "Non ci conosciamo ancora"
+    },
+    {
+      "id": 5,
+      "it": "Ti posso dare del tu?",
+      "de": "Darf ich dich duzen?",
+      "category": 0,
+      "example": "Ti posso dare del tu?"
+    },
+    {
+      "id": 6,
+      "it": "Di che cosa ti occupi?",
+      "de": "Was machst du beruflich?",
+      "category": 0,
+      "example": "Di che cosa ti occupi?"
+    },
+    {
+      "id": 7,
+      "it": "Lavoro nel settore industriale",
+      "de": "Ich arbeite in der Industrie",
+      "category": 0,
+      "example": "Lavoro nel settore industriale"
+    },
+    {
+      "id": 8,
+      "it": "Sono qui per qualche giorno",
+      "de": "Ich bin ein paar Tage hier",
+      "category": 0,
+      "example": "Sono qui per qualche giorno"
+    },
+    {
+      "id": 9,
+      "it": "Vengo dall’Austria",
+      "de": "Ich komme aus Österreich",
+      "category": 0,
+      "example": "Vengo dall’Austria"
+    },
+    {
+      "id": 10,
+      "it": "Abito vicino al centro",
+      "de": "Ich wohne nahe dem Zentrum",
+      "category": 0,
+      "example": "Abito vicino al centro"
+    },
+    {
+      "id": 11,
+      "it": "Che cosa fai nel tempo libero?",
+      "de": "Was machst du in deiner Freizeit?",
+      "category": 0,
+      "example": "Che cosa fai nel tempo libero?"
+    },
+    {
+      "id": 12,
+      "it": "Mi piace conoscere gente nuova",
+      "de": "Ich lerne gern neue Leute kennen",
+      "category": 0,
+      "example": "Mi piace conoscere gente nuova"
+    },
+    {
+      "id": 13,
+      "it": "Abbiamo qualcosa in comune",
+      "de": "Wir haben etwas gemeinsam",
+      "category": 0,
+      "example": "Abbiamo qualcosa in comune"
+    },
+    {
+      "id": 14,
+      "it": "È la prima volta che vieni qui?",
+      "de": "Bist du zum ersten Mal hier?",
+      "category": 0,
+      "example": "È la prima volta che vieni qui?"
+    },
+    {
+      "id": 15,
+      "it": "Ci siamo già visti?",
+      "de": "Haben wir uns schon gesehen?",
+      "category": 0,
+      "example": "Ci siamo già visti?"
+    },
+    {
+      "id": 16,
+      "it": "Non ricordo il tuo nome",
+      "de": "Ich erinnere mich nicht an deinen Namen",
+      "category": 0,
+      "example": "Non ricordo il tuo nome"
+    },
+    {
+      "id": 17,
+      "it": "Come si pronuncia?",
+      "de": "Wie spricht man das aus?",
+      "category": 0,
+      "example": "Come si pronuncia?"
+    },
+    {
+      "id": 18,
+      "it": "Che coincidenza!",
+      "de": "Was für ein Zufall!",
+      "category": 0,
+      "example": "Che coincidenza!"
+    },
+    {
+      "id": 19,
+      "it": "Il piacere è mio",
+      "de": "Das Vergnügen ist ganz meinerseits",
+      "category": 0,
+      "example": "Il piacere è mio"
+    },
+    {
+      "id": 20,
+      "it": "Ti presento un amico",
+      "de": "Ich stelle dir einen Freund vor",
+      "category": 0,
+      "example": "Ti presento un amico"
+    },
+    {
+      "id": 21,
+      "it": "Ci sentiamo presto",
+      "de": "Wir hören bald voneinander",
+      "category": 0,
+      "example": "Ci sentiamo presto"
+    },
+    {
+      "id": 22,
+      "it": "Teniamoci in contatto",
+      "de": "Bleiben wir in Kontakt",
+      "category": 0,
+      "example": "Teniamoci in contatto"
+    },
+    {
+      "id": 23,
+      "it": "È stato un piacere conoscerti",
+      "de": "Es war schön, dich kennenzulernen",
+      "category": 0,
+      "example": "È stato un piacere conoscerti"
+    },
+    {
+      "id": 24,
+      "it": "Magari ci rivediamo",
+      "de": "Vielleicht sehen wir uns wieder",
+      "category": 0,
+      "example": "Magari ci rivediamo"
+    },
+    {
+      "id": 25,
+      "it": "A presto, allora!",
+      "de": "Dann bis bald!",
+      "category": 0,
+      "example": "A presto, allora!"
+    },
+    {
+      "id": 26,
+      "it": "Che bella giornata!",
+      "de": "Was für ein schöner Tag!",
+      "category": 1,
+      "example": "Che bella giornata!"
+    },
+    {
+      "id": 27,
+      "it": "Oggi fa piuttosto caldo",
+      "de": "Heute ist es ziemlich heiß",
+      "category": 1,
+      "example": "Oggi fa piuttosto caldo"
+    },
+    {
+      "id": 28,
+      "it": "Sembra che stia per piovere",
+      "de": "Es sieht nach Regen aus",
+      "category": 1,
+      "example": "Sembra che stia per piovere"
+    },
+    {
+      "id": 29,
+      "it": "Per fortuna c’è il sole",
+      "de": "Zum Glück scheint die Sonne",
+      "category": 1,
+      "example": "Per fortuna c’è il sole"
+    },
+    {
+      "id": 30,
+      "it": "Che tempo farà domani?",
+      "de": "Wie wird das Wetter morgen?",
+      "category": 1,
+      "example": "Che tempo farà domani?"
+    },
+    {
+      "id": 31,
+      "it": "Qui si sta davvero bene",
+      "de": "Hier ist es wirklich angenehm",
+      "category": 1,
+      "example": "Qui si sta davvero bene"
+    },
+    {
+      "id": 32,
+      "it": "C’è molta gente in giro",
+      "de": "Es sind viele Leute unterwegs",
+      "category": 1,
+      "example": "C’è molta gente in giro"
+    },
+    {
+      "id": 33,
+      "it": "È sempre così affollato?",
+      "de": "Ist es immer so voll?",
+      "category": 1,
+      "example": "È sempre così affollato?"
+    },
+    {
+      "id": 34,
+      "it": "Mi piace l’atmosfera",
+      "de": "Mir gefällt die Atmosphäre",
+      "category": 1,
+      "example": "Mi piace l’atmosfera"
+    },
+    {
+      "id": 35,
+      "it": "Non me l’aspettavo",
+      "de": "Das hätte ich nicht erwartet",
+      "category": 1,
+      "example": "Non me l’aspettavo"
+    },
+    {
+      "id": 36,
+      "it": "È una bella sorpresa",
+      "de": "Das ist eine schöne Überraschung",
+      "category": 1,
+      "example": "È una bella sorpresa"
+    },
+    {
+      "id": 37,
+      "it": "Che cosa ne pensi?",
+      "de": "Was hältst du davon?",
+      "category": 1,
+      "example": "Che cosa ne pensi?"
+    },
+    {
+      "id": 38,
+      "it": "Secondo me è interessante",
+      "de": "Meiner Meinung nach ist es interessant",
+      "category": 1,
+      "example": "Secondo me è interessante"
+    },
+    {
+      "id": 39,
+      "it": "Sono d’accordo con te",
+      "de": "Ich stimme dir zu",
+      "category": 1,
+      "example": "Sono d’accordo con te"
+    },
+    {
+      "id": 40,
+      "it": "Non sono del tutto d’accordo",
+      "de": "Ich stimme nicht ganz zu",
+      "category": 1,
+      "example": "Non sono del tutto d’accordo"
+    },
+    {
+      "id": 41,
+      "it": "Dipende dalla situazione",
+      "de": "Das hängt von der Situation ab",
+      "category": 1,
+      "example": "Dipende dalla situazione"
+    },
+    {
+      "id": 42,
+      "it": "A dire il vero",
+      "de": "Um ehrlich zu sein",
+      "category": 1,
+      "example": "A dire il vero"
+    },
+    {
+      "id": 43,
+      "it": "Se devo essere sincero",
+      "de": "Wenn ich ehrlich sein soll",
+      "category": 1,
+      "example": "Se devo essere sincero"
+    },
+    {
+      "id": 44,
+      "it": "Non ci avevo pensato",
+      "de": "Daran hatte ich nicht gedacht",
+      "category": 1,
+      "example": "Non ci avevo pensato"
+    },
+    {
+      "id": 45,
+      "it": "Hai proprio ragione",
+      "de": "Du hast völlig recht",
+      "category": 1,
+      "example": "Hai proprio ragione"
+    },
+    {
+      "id": 46,
+      "it": "Può darsi",
+      "de": "Kann schon sein",
+      "category": 1,
+      "example": "Può darsi"
+    },
+    {
+      "id": 47,
+      "it": "È difficile da dire",
+      "de": "Das ist schwer zu sagen",
+      "category": 1,
+      "example": "È difficile da dire"
+    },
+    {
+      "id": 48,
+      "it": "Parliamo d’altro",
+      "de": "Reden wir über etwas anderes",
+      "category": 1,
+      "example": "Parliamo d’altro"
+    },
+    {
+      "id": 49,
+      "it": "A proposito...",
+      "de": "Übrigens ...",
+      "category": 1,
+      "example": "A proposito..."
+    },
+    {
+      "id": 50,
+      "it": "Comunque sia",
+      "de": "Wie auch immer",
+      "category": 1,
+      "example": "Comunque sia"
+    },
+    {
+      "id": 51,
+      "it": "Mi sento a mio agio",
+      "de": "Ich fühle mich wohl",
+      "category": 2,
+      "example": "Mi sento a mio agio"
+    },
+    {
+      "id": 52,
+      "it": "Sono di buon umore",
+      "de": "Ich bin gut gelaunt",
+      "category": 2,
+      "example": "Sono di buon umore"
+    },
+    {
+      "id": 53,
+      "it": "Sono un po’ preoccupato",
+      "de": "Ich bin etwas besorgt",
+      "category": 2,
+      "example": "Sono un po’ preoccupato"
+    },
+    {
+      "id": 54,
+      "it": "Mi dà fastidio",
+      "de": "Das stört mich",
+      "category": 2,
+      "example": "Mi dà fastidio"
+    },
+    {
+      "id": 55,
+      "it": "Mi rende felice",
+      "de": "Das macht mich glücklich",
+      "category": 2,
+      "example": "Mi rende felice"
+    },
+    {
+      "id": 56,
+      "it": "Mi dispiace davvero",
+      "de": "Das tut mir wirklich leid",
+      "category": 2,
+      "example": "Mi dispiace davvero"
+    },
+    {
+      "id": 57,
+      "it": "Sono rimasto sorpreso",
+      "de": "Ich war überrascht",
+      "category": 2,
+      "example": "Sono rimasto sorpreso"
+    },
+    {
+      "id": 58,
+      "it": "Che peccato!",
+      "de": "Wie schade!",
+      "category": 2,
+      "example": "Che peccato!"
+    },
+    {
+      "id": 59,
+      "it": "Che fortuna!",
+      "de": "Was für ein Glück!",
+      "category": 2,
+      "example": "Che fortuna!"
+    },
+    {
+      "id": 60,
+      "it": "Non vedo l’ora",
+      "de": "Ich kann es kaum erwarten",
+      "category": 2,
+      "example": "Non vedo l’ora"
+    },
+    {
+      "id": 61,
+      "it": "Mi sembra una buona idea",
+      "de": "Das scheint mir eine gute Idee",
+      "category": 2,
+      "example": "Mi sembra una buona idea"
+    },
+    {
+      "id": 62,
+      "it": "Non mi convince",
+      "de": "Das überzeugt mich nicht",
+      "category": 2,
+      "example": "Non mi convince"
+    },
+    {
+      "id": 63,
+      "it": "Preferirei aspettare",
+      "de": "Ich würde lieber warten",
+      "category": 2,
+      "example": "Preferirei aspettare"
+    },
+    {
+      "id": 64,
+      "it": "Ne vale la pena",
+      "de": "Es lohnt sich",
+      "category": 2,
+      "example": "Ne vale la pena"
+    },
+    {
+      "id": 65,
+      "it": "Non ne vale la pena",
+      "de": "Es lohnt sich nicht",
+      "category": 2,
+      "example": "Non ne vale la pena"
+    },
+    {
+      "id": 66,
+      "it": "È una questione di gusti",
+      "de": "Das ist Geschmackssache",
+      "category": 2,
+      "example": "È una questione di gusti"
+    },
+    {
+      "id": 67,
+      "it": "Mi interessa molto",
+      "de": "Das interessiert mich sehr",
+      "category": 2,
+      "example": "Mi interessa molto"
+    },
+    {
+      "id": 68,
+      "it": "Non mi interessa affatto",
+      "de": "Das interessiert mich überhaupt nicht",
+      "category": 2,
+      "example": "Non mi interessa affatto"
+    },
+    {
+      "id": 69,
+      "it": "Sono curioso di sapere",
+      "de": "Ich bin neugierig zu erfahren",
+      "category": 2,
+      "example": "Sono curioso di sapere"
+    },
+    {
+      "id": 70,
+      "it": "Ho qualche dubbio",
+      "de": "Ich habe einige Zweifel",
+      "category": 2,
+      "example": "Ho qualche dubbio"
+    },
+    {
+      "id": 71,
+      "it": "Sono abbastanza sicuro",
+      "de": "Ich bin ziemlich sicher",
+      "category": 2,
+      "example": "Sono abbastanza sicuro"
+    },
+    {
+      "id": 72,
+      "it": "Non ne sono certo",
+      "de": "Ich bin mir dessen nicht sicher",
+      "category": 2,
+      "example": "Non ne sono certo"
+    },
+    {
+      "id": 73,
+      "it": "Mi fido di te",
+      "de": "Ich vertraue dir",
+      "category": 2,
+      "example": "Mi fido di te"
+    },
+    {
+      "id": 74,
+      "it": "Ti capisco benissimo",
+      "de": "Ich verstehe dich sehr gut",
+      "category": 2,
+      "example": "Ti capisco benissimo"
+    },
+    {
+      "id": 75,
+      "it": "Mi è indifferente",
+      "de": "Das ist mir egal",
+      "category": 2,
+      "example": "Mi è indifferente"
+    },
+    {
+      "id": 76,
+      "it": "Hai già programmi per stasera?",
+      "de": "Hast du heute Abend schon Pläne?",
+      "category": 3,
+      "example": "Hai già programmi per stasera?"
+    },
+    {
+      "id": 77,
+      "it": "Che ne dici di domani?",
+      "de": "Wie wäre es mit morgen?",
+      "category": 3,
+      "example": "Che ne dici di domani?"
+    },
+    {
+      "id": 78,
+      "it": "Ci vediamo verso le sette",
+      "de": "Wir sehen uns gegen sieben",
+      "category": 3,
+      "example": "Ci vediamo verso le sette"
+    },
+    {
+      "id": 79,
+      "it": "Ti va di uscire?",
+      "de": "Hast du Lust auszugehen?",
+      "category": 3,
+      "example": "Ti va di uscire?"
+    },
+    {
+      "id": 80,
+      "it": "Potremmo fare una passeggiata",
+      "de": "Wir könnten spazieren gehen",
+      "category": 3,
+      "example": "Potremmo fare una passeggiata"
+    },
+    {
+      "id": 81,
+      "it": "Devo controllare l’agenda",
+      "de": "Ich muss in den Kalender schauen",
+      "category": 3,
+      "example": "Devo controllare l’agenda"
+    },
+    {
+      "id": 82,
+      "it": "Ho già un impegno",
+      "de": "Ich habe schon einen Termin",
+      "category": 3,
+      "example": "Ho già un impegno"
+    },
+    {
+      "id": 83,
+      "it": "Sono libero nel pomeriggio",
+      "de": "Ich habe am Nachmittag Zeit",
+      "category": 3,
+      "example": "Sono libero nel pomeriggio"
+    },
+    {
+      "id": 84,
+      "it": "Mi viene meglio venerdì",
+      "de": "Freitag passt mir besser",
+      "category": 3,
+      "example": "Mi viene meglio venerdì"
+    },
+    {
+      "id": 85,
+      "it": "Possiamo rimandare?",
+      "de": "Können wir es verschieben?",
+      "category": 3,
+      "example": "Possiamo rimandare?"
+    },
+    {
+      "id": 86,
+      "it": "Facciamo un’altra volta",
+      "de": "Machen wir es ein anderes Mal",
+      "category": 3,
+      "example": "Facciamo un’altra volta"
+    },
+    {
+      "id": 87,
+      "it": "Ti faccio sapere",
+      "de": "Ich gebe dir Bescheid",
+      "category": 3,
+      "example": "Ti faccio sapere"
+    },
+    {
+      "id": 88,
+      "it": "Non ho ancora deciso",
+      "de": "Ich habe noch nicht entschieden",
+      "category": 3,
+      "example": "Non ho ancora deciso"
+    },
+    {
+      "id": 89,
+      "it": "Ho cambiato idea",
+      "de": "Ich habe meine Meinung geändert",
+      "category": 3,
+      "example": "Ho cambiato idea"
+    },
+    {
+      "id": 90,
+      "it": "Arriverò un po’ più tardi",
+      "de": "Ich komme etwas später",
+      "category": 3,
+      "example": "Arriverò un po’ più tardi"
+    },
+    {
+      "id": 91,
+      "it": "Sarò puntuale",
+      "de": "Ich werde pünktlich sein",
+      "category": 3,
+      "example": "Sarò puntuale"
+    },
+    {
+      "id": 92,
+      "it": "Scusa per il ritardo",
+      "de": "Entschuldige die Verspätung",
+      "category": 3,
+      "example": "Scusa per il ritardo"
+    },
+    {
+      "id": 93,
+      "it": "Quanto tempo ci vuole?",
+      "de": "Wie lange dauert es?",
+      "category": 3,
+      "example": "Quanto tempo ci vuole?"
+    },
+    {
+      "id": 94,
+      "it": "Ci vuole circa mezz’ora",
+      "de": "Es dauert etwa eine halbe Stunde",
+      "category": 3,
+      "example": "Ci vuole circa mezz’ora"
+    },
+    {
+      "id": 95,
+      "it": "È troppo presto per me",
+      "de": "Das ist mir zu früh",
+      "category": 3,
+      "example": "È troppo presto per me"
+    },
+    {
+      "id": 96,
+      "it": "È un po’ tardi",
+      "de": "Es ist etwas spät",
+      "category": 3,
+      "example": "È un po’ tardi"
+    },
+    {
+      "id": 97,
+      "it": "Fissiamo un appuntamento",
+      "de": "Vereinbaren wir einen Termin",
+      "category": 3,
+      "example": "Fissiamo un appuntamento"
+    },
+    {
+      "id": 98,
+      "it": "A che ora ti va bene?",
+      "de": "Um wie viel Uhr passt es dir?",
+      "category": 3,
+      "example": "A che ora ti va bene?"
+    },
+    {
+      "id": 99,
+      "it": "Ci organizziamo domani",
+      "de": "Wir organisieren das morgen",
+      "category": 3,
+      "example": "Ci organizziamo domani"
+    },
+    {
+      "id": 100,
+      "it": "È tutto confermato",
+      "de": "Alles ist bestätigt",
+      "category": 3,
+      "example": "È tutto confermato"
+    },
+    {
+      "id": 101,
+      "it": "Ieri ho lavorato molto",
+      "de": "Gestern habe ich viel gearbeitet",
+      "category": 4,
+      "example": "Ieri ho lavorato molto"
+    },
+    {
+      "id": 102,
+      "it": "Ho incontrato un amico",
+      "de": "Ich habe einen Freund getroffen",
+      "category": 4,
+      "example": "Ho incontrato un amico"
+    },
+    {
+      "id": 103,
+      "it": "Abbiamo parlato a lungo",
+      "de": "Wir haben lange gesprochen",
+      "category": 4,
+      "example": "Abbiamo parlato a lungo"
+    },
+    {
+      "id": 104,
+      "it": "Ho mangiato troppo",
+      "de": "Ich habe zu viel gegessen",
+      "category": 4,
+      "example": "Ho mangiato troppo"
+    },
+    {
+      "id": 105,
+      "it": "Ho bevuto un caffè",
+      "de": "Ich habe einen Kaffee getrunken",
+      "category": 4,
+      "example": "Ho bevuto un caffè"
+    },
+    {
+      "id": 106,
+      "it": "Ho visto un bel film",
+      "de": "Ich habe einen schönen Film gesehen",
+      "category": 4,
+      "example": "Ho visto un bel film"
+    },
+    {
+      "id": 107,
+      "it": "Ho letto un articolo",
+      "de": "Ich habe einen Artikel gelesen",
+      "category": 4,
+      "example": "Ho letto un articolo"
+    },
+    {
+      "id": 108,
+      "it": "Ho comprato qualcosa",
+      "de": "Ich habe etwas gekauft",
+      "category": 4,
+      "example": "Ho comprato qualcosa"
+    },
+    {
+      "id": 109,
+      "it": "Ho perso le chiavi",
+      "de": "Ich habe die Schlüssel verloren",
+      "category": 4,
+      "example": "Ho perso le chiavi"
+    },
+    {
+      "id": 110,
+      "it": "Ho trovato un posto",
+      "de": "Ich habe einen Platz gefunden",
+      "category": 4,
+      "example": "Ho trovato un posto"
+    },
+    {
+      "id": 111,
+      "it": "Ho ricevuto un messaggio",
+      "de": "Ich habe eine Nachricht bekommen",
+      "category": 4,
+      "example": "Ho ricevuto un messaggio"
+    },
+    {
+      "id": 112,
+      "it": "Ho risposto subito",
+      "de": "Ich habe sofort geantwortet",
+      "category": 4,
+      "example": "Ho risposto subito"
+    },
+    {
+      "id": 113,
+      "it": "Ho aspettato un’ora",
+      "de": "Ich habe eine Stunde gewartet",
+      "category": 4,
+      "example": "Ho aspettato un’ora"
+    },
+    {
+      "id": 114,
+      "it": "Ho capito il problema",
+      "de": "Ich habe das Problem verstanden",
+      "category": 4,
+      "example": "Ho capito il problema"
+    },
+    {
+      "id": 115,
+      "it": "Non ho sentito niente",
+      "de": "Ich habe nichts gehört",
+      "category": 4,
+      "example": "Non ho sentito niente"
+    },
+    {
+      "id": 116,
+      "it": "Ho dimenticato il nome",
+      "de": "Ich habe den Namen vergessen",
+      "category": 4,
+      "example": "Ho dimenticato il nome"
+    },
+    {
+      "id": 117,
+      "it": "Ho imparato molto",
+      "de": "Ich habe viel gelernt",
+      "category": 4,
+      "example": "Ho imparato molto"
+    },
+    {
+      "id": 118,
+      "it": "Ho provato una cosa nuova",
+      "de": "Ich habe etwas Neues ausprobiert",
+      "category": 4,
+      "example": "Ho provato una cosa nuova"
+    },
+    {
+      "id": 119,
+      "it": "Ho scelto questo",
+      "de": "Ich habe das hier gewählt",
+      "category": 4,
+      "example": "Ho scelto questo"
+    },
+    {
+      "id": 120,
+      "it": "Ho finito presto",
+      "de": "Ich war früh fertig",
+      "category": 4,
+      "example": "Ho finito presto"
+    },
+    {
+      "id": 121,
+      "it": "Ho iniziato ieri",
+      "de": "Ich habe gestern angefangen",
+      "category": 4,
+      "example": "Ho iniziato ieri"
+    },
+    {
+      "id": 122,
+      "it": "Ho chiesto informazioni",
+      "de": "Ich habe nach Informationen gefragt",
+      "category": 4,
+      "example": "Ho chiesto informazioni"
+    },
+    {
+      "id": 123,
+      "it": "Ho spiegato tutto",
+      "de": "Ich habe alles erklärt",
+      "category": 4,
+      "example": "Ho spiegato tutto"
+    },
+    {
+      "id": 124,
+      "it": "Ho pensato a te",
+      "de": "Ich habe an dich gedacht",
+      "category": 4,
+      "example": "Ho pensato a te"
+    },
+    {
+      "id": 125,
+      "it": "Ho avuto una bella giornata",
+      "de": "Ich hatte einen schönen Tag",
+      "category": 4,
+      "example": "Ho avuto una bella giornata"
+    },
+    {
+      "id": 126,
+      "it": "Sono andato in centro",
+      "de": "Ich bin ins Zentrum gegangen",
+      "category": 5,
+      "example": "Sono andato in centro"
+    },
+    {
+      "id": 127,
+      "it": "Siamo arrivati tardi",
+      "de": "Wir sind spät angekommen",
+      "category": 5,
+      "example": "Siamo arrivati tardi"
+    },
+    {
+      "id": 128,
+      "it": "Sono tornato a casa",
+      "de": "Ich bin nach Hause zurückgekehrt",
+      "category": 5,
+      "example": "Sono tornato a casa"
+    },
+    {
+      "id": 129,
+      "it": "Siamo partiti presto",
+      "de": "Wir sind früh losgefahren",
+      "category": 5,
+      "example": "Siamo partiti presto"
+    },
+    {
+      "id": 130,
+      "it": "Sono rimasto lì",
+      "de": "Ich bin dort geblieben",
+      "category": 5,
+      "example": "Sono rimasto lì"
+    },
+    {
+      "id": 131,
+      "it": "Sono uscito con amici",
+      "de": "Ich bin mit Freunden ausgegangen",
+      "category": 5,
+      "example": "Sono uscito con amici"
+    },
+    {
+      "id": 132,
+      "it": "Sono entrato nel negozio",
+      "de": "Ich bin in das Geschäft hineingegangen",
+      "category": 5,
+      "example": "Sono entrato nel negozio"
+    },
+    {
+      "id": 133,
+      "it": "Sono salito sul treno",
+      "de": "Ich bin in den Zug gestiegen",
+      "category": 5,
+      "example": "Sono salito sul treno"
+    },
+    {
+      "id": 134,
+      "it": "Sono sceso alla fermata",
+      "de": "Ich bin an der Haltestelle ausgestiegen",
+      "category": 5,
+      "example": "Sono sceso alla fermata"
+    },
+    {
+      "id": 135,
+      "it": "Mi sono svegliato presto",
+      "de": "Ich bin früh aufgewacht",
+      "category": 5,
+      "example": "Mi sono svegliato presto"
+    },
+    {
+      "id": 136,
+      "it": "Mi sono alzato alle otto",
+      "de": "Ich bin um acht aufgestanden",
+      "category": 5,
+      "example": "Mi sono alzato alle otto"
+    },
+    {
+      "id": 137,
+      "it": "Mi sono divertito molto",
+      "de": "Ich habe mich sehr amüsiert",
+      "category": 5,
+      "example": "Mi sono divertito molto"
+    },
+    {
+      "id": 138,
+      "it": "Mi sono riposato un po’",
+      "de": "Ich habe mich etwas ausgeruht",
+      "category": 5,
+      "example": "Mi sono riposato un po’"
+    },
+    {
+      "id": 139,
+      "it": "Mi sono perso in città",
+      "de": "Ich habe mich in der Stadt verlaufen",
+      "category": 5,
+      "example": "Mi sono perso in città"
+    },
+    {
+      "id": 140,
+      "it": "Mi sono ricordato di te",
+      "de": "Ich habe mich an dich erinnert",
+      "category": 5,
+      "example": "Mi sono ricordato di te"
+    },
+    {
+      "id": 141,
+      "it": "Ci siamo incontrati per caso",
+      "de": "Wir haben uns zufällig getroffen",
+      "category": 5,
+      "example": "Ci siamo incontrati per caso"
+    },
+    {
+      "id": 142,
+      "it": "Ci siamo fermati qui",
+      "de": "Wir haben hier angehalten",
+      "category": 5,
+      "example": "Ci siamo fermati qui"
+    },
+    {
+      "id": 143,
+      "it": "È successo ieri",
+      "de": "Es ist gestern passiert",
+      "category": 5,
+      "example": "È successo ieri"
+    },
+    {
+      "id": 144,
+      "it": "È andata bene",
+      "de": "Es ist gut gelaufen",
+      "category": 5,
+      "example": "È andata bene"
+    },
+    {
+      "id": 145,
+      "it": "È stato fantastico",
+      "de": "Es war fantastisch",
+      "category": 5,
+      "example": "È stato fantastico"
+    },
+    {
+      "id": 146,
+      "it": "Non è stato facile",
+      "de": "Es war nicht einfach",
+      "category": 5,
+      "example": "Non è stato facile"
+    },
+    {
+      "id": 147,
+      "it": "Sono stato a Roma",
+      "de": "Ich war in Rom",
+      "category": 5,
+      "example": "Sono stato a Roma"
+    },
+    {
+      "id": 148,
+      "it": "Siamo stati al mare",
+      "de": "Wir waren am Meer",
+      "category": 5,
+      "example": "Siamo stati al mare"
+    },
+    {
+      "id": 149,
+      "it": "Sono diventato più paziente",
+      "de": "Ich bin geduldiger geworden",
+      "category": 5,
+      "example": "Sono diventato più paziente"
+    },
+    {
+      "id": 150,
+      "it": "Mi è piaciuto molto",
+      "de": "Es hat mir sehr gefallen",
+      "category": 5,
+      "example": "Mi è piaciuto molto"
+    },
+    {
+      "id": 151,
+      "it": "Domani andrò al mercato",
+      "de": "Morgen gehe ich auf den Markt",
+      "category": 6,
+      "example": "Domani andrò al mercato"
+    },
+    {
+      "id": 152,
+      "it": "La prossima volta resterò di più",
+      "de": "Nächstes Mal bleibe ich länger",
+      "category": 6,
+      "example": "La prossima volta resterò di più"
+    },
+    {
+      "id": 153,
+      "it": "Spero che vada bene",
+      "de": "Ich hoffe, dass es gut läuft",
+      "category": 6,
+      "example": "Spero che vada bene"
+    },
+    {
+      "id": 154,
+      "it": "Vorrei imparare meglio l’italiano",
+      "de": "Ich möchte besser Italienisch lernen",
+      "category": 6,
+      "example": "Vorrei imparare meglio l’italiano"
+    },
+    {
+      "id": 155,
+      "it": "Mi piacerebbe visitare Napoli",
+      "de": "Ich würde gern Neapel besuchen",
+      "category": 6,
+      "example": "Mi piacerebbe visitare Napoli"
+    },
+    {
+      "id": 156,
+      "it": "Potrei venire con te",
+      "de": "Ich könnte mitkommen",
+      "category": 6,
+      "example": "Potrei venire con te"
+    },
+    {
+      "id": 157,
+      "it": "Dovrei partire presto",
+      "de": "Ich sollte früh losfahren",
+      "category": 6,
+      "example": "Dovrei partire presto"
+    },
+    {
+      "id": 158,
+      "it": "Voglio provare qualcosa di nuovo",
+      "de": "Ich will etwas Neues ausprobieren",
+      "category": 6,
+      "example": "Voglio provare qualcosa di nuovo"
+    },
+    {
+      "id": 159,
+      "it": "Ho intenzione di tornare",
+      "de": "Ich habe vor zurückzukommen",
+      "category": 6,
+      "example": "Ho intenzione di tornare"
+    },
+    {
+      "id": 160,
+      "it": "Sto pensando di cambiare",
+      "de": "Ich denke darüber nach, etwas zu ändern",
+      "category": 6,
+      "example": "Sto pensando di cambiare"
+    },
+    {
+      "id": 161,
+      "it": "Prima o poi lo farò",
+      "de": "Früher oder später mache ich es",
+      "category": 6,
+      "example": "Prima o poi lo farò"
+    },
+    {
+      "id": 162,
+      "it": "Magari l’anno prossimo",
+      "de": "Vielleicht nächstes Jahr",
+      "category": 6,
+      "example": "Magari l’anno prossimo"
+    },
+    {
+      "id": 163,
+      "it": "Se ho tempo, vengo",
+      "de": "Wenn ich Zeit habe, komme ich",
+      "category": 6,
+      "example": "Se ho tempo, vengo"
+    },
+    {
+      "id": 164,
+      "it": "Se piove, restiamo qui",
+      "de": "Wenn es regnet, bleiben wir hier",
+      "category": 6,
+      "example": "Se piove, restiamo qui"
+    },
+    {
+      "id": 165,
+      "it": "Se vuoi, ti aiuto",
+      "de": "Wenn du willst, helfe ich dir",
+      "category": 6,
+      "example": "Se vuoi, ti aiuto"
+    },
+    {
+      "id": 166,
+      "it": "Sarebbe bello",
+      "de": "Das wäre schön",
+      "category": 6,
+      "example": "Sarebbe bello"
+    },
+    {
+      "id": 167,
+      "it": "Sarebbe meglio aspettare",
+      "de": "Es wäre besser zu warten",
+      "category": 6,
+      "example": "Sarebbe meglio aspettare"
+    },
+    {
+      "id": 168,
+      "it": "Mi farebbe piacere",
+      "de": "Das würde mich freuen",
+      "category": 6,
+      "example": "Mi farebbe piacere"
+    },
+    {
+      "id": 169,
+      "it": "Preferirei qualcosa di semplice",
+      "de": "Ich würde etwas Einfaches bevorzugen",
+      "category": 6,
+      "example": "Preferirei qualcosa di semplice"
+    },
+    {
+      "id": 170,
+      "it": "Non so ancora cosa farò",
+      "de": "Ich weiß noch nicht, was ich machen werde",
+      "category": 6,
+      "example": "Non so ancora cosa farò"
+    },
+    {
+      "id": 171,
+      "it": "Vedremo come va",
+      "de": "Wir werden sehen, wie es läuft",
+      "category": 6,
+      "example": "Vedremo come va"
+    },
+    {
+      "id": 172,
+      "it": "Ti chiamerò domani",
+      "de": "Ich werde dich morgen anrufen",
+      "category": 6,
+      "example": "Ti chiamerò domani"
+    },
+    {
+      "id": 173,
+      "it": "Ci penserò stasera",
+      "de": "Ich werde heute Abend darüber nachdenken",
+      "category": 6,
+      "example": "Ci penserò stasera"
+    },
+    {
+      "id": 174,
+      "it": "Farò del mio meglio",
+      "de": "Ich werde mein Bestes geben",
+      "category": 6,
+      "example": "Farò del mio meglio"
+    },
+    {
+      "id": 175,
+      "it": "Spero di rivederti",
+      "de": "Ich hoffe, dich wiederzusehen",
+      "category": 6,
+      "example": "Spero di rivederti"
+    },
+    {
+      "id": 176,
+      "it": "Avete un tavolo libero?",
+      "de": "Haben Sie einen freien Tisch?",
+      "category": 7,
+      "example": "Avete un tavolo libero?"
+    },
+    {
+      "id": 177,
+      "it": "Abbiamo prenotato per due",
+      "de": "Wir haben für zwei reserviert",
+      "category": 7,
+      "example": "Abbiamo prenotato per due"
+    },
+    {
+      "id": 178,
+      "it": "Possiamo sederci fuori?",
+      "de": "Können wir draußen sitzen?",
+      "category": 7,
+      "example": "Possiamo sederci fuori?"
+    },
+    {
+      "id": 179,
+      "it": "Che cosa ci consiglia?",
+      "de": "Was empfehlen Sie uns?",
+      "category": 7,
+      "example": "Che cosa ci consiglia?"
+    },
+    {
+      "id": 180,
+      "it": "Qual è la specialità della casa?",
+      "de": "Was ist die Spezialität des Hauses?",
+      "category": 7,
+      "example": "Qual è la specialità della casa?"
+    },
+    {
+      "id": 181,
+      "it": "Vorrei assaggiare questo",
+      "de": "Ich würde das gern probieren",
+      "category": 7,
+      "example": "Vorrei assaggiare questo"
+    },
+    {
+      "id": 182,
+      "it": "Che cosa contiene?",
+      "de": "Was ist darin enthalten?",
+      "category": 7,
+      "example": "Che cosa contiene?"
+    },
+    {
+      "id": 183,
+      "it": "Senza cipolla, per favore",
+      "de": "Ohne Zwiebel, bitte",
+      "category": 7,
+      "example": "Senza cipolla, per favore"
+    },
+    {
+      "id": 184,
+      "it": "Sono allergico alle noci",
+      "de": "Ich bin allergisch gegen Nüsse",
+      "category": 7,
+      "example": "Sono allergico alle noci"
+    },
+    {
+      "id": 185,
+      "it": "Preferisco qualcosa di leggero",
+      "de": "Ich bevorzuge etwas Leichtes",
+      "category": 7,
+      "example": "Preferisco qualcosa di leggero"
+    },
+    {
+      "id": 186,
+      "it": "Per me lo stesso",
+      "de": "Für mich dasselbe",
+      "category": 7,
+      "example": "Per me lo stesso"
+    },
+    {
+      "id": 187,
+      "it": "Prendiamo due antipasti",
+      "de": "Wir nehmen zwei Vorspeisen",
+      "category": 7,
+      "example": "Prendiamo due antipasti"
+    },
+    {
+      "id": 188,
+      "it": "Da bere, acqua naturale",
+      "de": "Zum Trinken stilles Wasser",
+      "category": 7,
+      "example": "Da bere, acqua naturale"
+    },
+    {
+      "id": 189,
+      "it": "Un altro bicchiere, grazie",
+      "de": "Noch ein Glas, danke",
+      "category": 7,
+      "example": "Un altro bicchiere, grazie"
+    },
+    {
+      "id": 190,
+      "it": "È davvero delizioso",
+      "de": "Es ist wirklich köstlich",
+      "category": 7,
+      "example": "È davvero delizioso"
+    },
+    {
+      "id": 191,
+      "it": "È un po’ troppo salato",
+      "de": "Es ist etwas zu salzig",
+      "category": 7,
+      "example": "È un po’ troppo salato"
+    },
+    {
+      "id": 192,
+      "it": "La porzione è abbondante",
+      "de": "Die Portion ist großzügig",
+      "category": 7,
+      "example": "La porzione è abbondante"
+    },
+    {
+      "id": 193,
+      "it": "Sono già sazio",
+      "de": "Ich bin schon satt",
+      "category": 7,
+      "example": "Sono già sazio"
+    },
+    {
+      "id": 194,
+      "it": "Possiamo avere il conto?",
+      "de": "Können wir die Rechnung bekommen?",
+      "category": 7,
+      "example": "Possiamo avere il conto?"
+    },
+    {
+      "id": 195,
+      "it": "Paghiamo separatamente",
+      "de": "Wir zahlen getrennt",
+      "category": 7,
+      "example": "Paghiamo separatamente"
+    },
+    {
+      "id": 196,
+      "it": "Offro io stavolta",
+      "de": "Diesmal lade ich ein",
+      "category": 7,
+      "example": "Offro io stavolta"
+    },
+    {
+      "id": 197,
+      "it": "Il servizio è incluso?",
+      "de": "Ist das Service inbegriffen?",
+      "category": 7,
+      "example": "Il servizio è incluso?"
+    },
+    {
+      "id": 198,
+      "it": "Tenga il resto",
+      "de": "Stimmt so",
+      "category": 7,
+      "example": "Tenga il resto"
+    },
+    {
+      "id": 199,
+      "it": "Ci è piaciuto molto",
+      "de": "Es hat uns sehr gefallen",
+      "category": 7,
+      "example": "Ci è piaciuto molto"
+    },
+    {
+      "id": 200,
+      "it": "Torneremo sicuramente",
+      "de": "Wir kommen sicher wieder",
+      "category": 7,
+      "example": "Torneremo sicuramente"
+    },
+    {
+      "id": 201,
+      "it": "Sto solo dando un’occhiata",
+      "de": "Ich schaue mich nur um",
+      "category": 8,
+      "example": "Sto solo dando un’occhiata"
+    },
+    {
+      "id": 202,
+      "it": "Cerco qualcosa di particolare",
+      "de": "Ich suche etwas Bestimmtes",
+      "category": 8,
+      "example": "Cerco qualcosa di particolare"
+    },
+    {
+      "id": 203,
+      "it": "Ce l’avete in un’altra taglia?",
+      "de": "Haben Sie es in einer anderen Größe?",
+      "category": 8,
+      "example": "Ce l’avete in un’altra taglia?"
+    },
+    {
+      "id": 204,
+      "it": "Posso provarlo?",
+      "de": "Kann ich es anprobieren?",
+      "category": 8,
+      "example": "Posso provarlo?"
+    },
+    {
+      "id": 205,
+      "it": "Dove sono i camerini?",
+      "de": "Wo sind die Umkleidekabinen?",
+      "category": 8,
+      "example": "Dove sono i camerini?"
+    },
+    {
+      "id": 206,
+      "it": "Mi sta un po’ stretto",
+      "de": "Es ist mir etwas eng",
+      "category": 8,
+      "example": "Mi sta un po’ stretto"
+    },
+    {
+      "id": 207,
+      "it": "Mi sta troppo largo",
+      "de": "Es ist mir zu weit",
+      "category": 8,
+      "example": "Mi sta troppo largo"
+    },
+    {
+      "id": 208,
+      "it": "Questo colore mi piace",
+      "de": "Diese Farbe gefällt mir",
+      "category": 8,
+      "example": "Questo colore mi piace"
+    },
+    {
+      "id": 209,
+      "it": "Avete qualcosa di simile?",
+      "de": "Haben Sie etwas Ähnliches?",
+      "category": 8,
+      "example": "Avete qualcosa di simile?"
+    },
+    {
+      "id": 210,
+      "it": "Quanto viene in tutto?",
+      "de": "Wie viel macht das insgesamt?",
+      "category": 8,
+      "example": "Quanto viene in tutto?"
+    },
+    {
+      "id": 211,
+      "it": "C’è uno sconto?",
+      "de": "Gibt es einen Rabatt?",
+      "category": 8,
+      "example": "C’è uno sconto?"
+    },
+    {
+      "id": 212,
+      "it": "È in offerta?",
+      "de": "Ist es im Angebot?",
+      "category": 8,
+      "example": "È in offerta?"
+    },
+    {
+      "id": 213,
+      "it": "Costa più del previsto",
+      "de": "Es kostet mehr als erwartet",
+      "category": 8,
+      "example": "Costa più del previsto"
+    },
+    {
+      "id": 214,
+      "it": "È un buon prezzo",
+      "de": "Das ist ein guter Preis",
+      "category": 8,
+      "example": "È un buon prezzo"
+    },
+    {
+      "id": 215,
+      "it": "Posso pagare con carta?",
+      "de": "Kann ich mit Karte zahlen?",
+      "category": 8,
+      "example": "Posso pagare con carta?"
+    },
+    {
+      "id": 216,
+      "it": "Accettate contanti?",
+      "de": "Nehmen Sie Bargeld?",
+      "category": 8,
+      "example": "Accettate contanti?"
+    },
+    {
+      "id": 217,
+      "it": "Mi serve una ricevuta",
+      "de": "Ich brauche einen Beleg",
+      "category": 8,
+      "example": "Mi serve una ricevuta"
+    },
+    {
+      "id": 218,
+      "it": "Posso cambiarlo?",
+      "de": "Kann ich es umtauschen?",
+      "category": 8,
+      "example": "Posso cambiarlo?"
+    },
+    {
+      "id": 219,
+      "it": "Vorrei restituirlo",
+      "de": "Ich würde es gern zurückgeben",
+      "category": 8,
+      "example": "Vorrei restituirlo"
+    },
+    {
+      "id": 220,
+      "it": "È difettoso",
+      "de": "Es ist defekt",
+      "category": 8,
+      "example": "È difettoso"
+    },
+    {
+      "id": 221,
+      "it": "Non funziona bene",
+      "de": "Es funktioniert nicht gut",
+      "category": 8,
+      "example": "Non funziona bene"
+    },
+    {
+      "id": 222,
+      "it": "Avete una garanzia?",
+      "de": "Gibt es eine Garantie?",
+      "category": 8,
+      "example": "Avete una garanzia?"
+    },
+    {
+      "id": 223,
+      "it": "Lo prendo volentieri",
+      "de": "Ich nehme es gern",
+      "category": 8,
+      "example": "Lo prendo volentieri"
+    },
+    {
+      "id": 224,
+      "it": "Ci penso un attimo",
+      "de": "Ich überlege kurz",
+      "category": 8,
+      "example": "Ci penso un attimo"
+    },
+    {
+      "id": 225,
+      "it": "Grazie per l’aiuto",
+      "de": "Danke für die Hilfe",
+      "category": 8,
+      "example": "Grazie per l’aiuto"
+    },
+    {
+      "id": 226,
+      "it": "Come si arriva in centro?",
+      "de": "Wie kommt man ins Zentrum?",
+      "category": 9,
+      "example": "Come si arriva in centro?"
+    },
+    {
+      "id": 227,
+      "it": "È lontano da qui?",
+      "de": "Ist es weit von hier?",
+      "category": 9,
+      "example": "È lontano da qui?"
+    },
+    {
+      "id": 228,
+      "it": "Si può andare a piedi?",
+      "de": "Kann man zu Fuß gehen?",
+      "category": 9,
+      "example": "Si può andare a piedi?"
+    },
+    {
+      "id": 229,
+      "it": "Quale autobus devo prendere?",
+      "de": "Welchen Bus muss ich nehmen?",
+      "category": 9,
+      "example": "Quale autobus devo prendere?"
+    },
+    {
+      "id": 230,
+      "it": "Dove cambio treno?",
+      "de": "Wo muss ich umsteigen?",
+      "category": 9,
+      "example": "Dove cambio treno?"
+    },
+    {
+      "id": 231,
+      "it": "A che binario parte?",
+      "de": "Von welchem Gleis fährt er ab?",
+      "category": 9,
+      "example": "A che binario parte?"
+    },
+    {
+      "id": 232,
+      "it": "Il treno è in ritardo",
+      "de": "Der Zug hat Verspätung",
+      "category": 9,
+      "example": "Il treno è in ritardo"
+    },
+    {
+      "id": 233,
+      "it": "Ho perso la coincidenza",
+      "de": "Ich habe den Anschluss verpasst",
+      "category": 9,
+      "example": "Ho perso la coincidenza"
+    },
+    {
+      "id": 234,
+      "it": "È questa la fermata giusta?",
+      "de": "Ist das die richtige Haltestelle?",
+      "category": 9,
+      "example": "È questa la fermata giusta?"
+    },
+    {
+      "id": 235,
+      "it": "Devo scendere qui?",
+      "de": "Muss ich hier aussteigen?",
+      "category": 9,
+      "example": "Devo scendere qui?"
+    },
+    {
+      "id": 236,
+      "it": "Mi può indicare la strada?",
+      "de": "Können Sie mir den Weg zeigen?",
+      "category": 9,
+      "example": "Mi può indicare la strada?"
+    },
+    {
+      "id": 237,
+      "it": "Giri a sinistra",
+      "de": "Biegen Sie links ab",
+      "category": 9,
+      "example": "Giri a sinistra"
+    },
+    {
+      "id": 238,
+      "it": "Prosegua sempre dritto",
+      "de": "Gehen Sie immer geradeaus",
+      "category": 9,
+      "example": "Prosegua sempre dritto"
+    },
+    {
+      "id": 239,
+      "it": "È dietro l’angolo",
+      "de": "Es ist gleich um die Ecke",
+      "category": 9,
+      "example": "È dietro l’angolo"
+    },
+    {
+      "id": 240,
+      "it": "Attraversi la piazza",
+      "de": "Überqueren Sie den Platz",
+      "category": 9,
+      "example": "Attraversi la piazza"
+    },
+    {
+      "id": 241,
+      "it": "È dall’altra parte",
+      "de": "Es ist auf der anderen Seite",
+      "category": 9,
+      "example": "È dall’altra parte"
+    },
+    {
+      "id": 242,
+      "it": "Cerco un parcheggio",
+      "de": "Ich suche einen Parkplatz",
+      "category": 9,
+      "example": "Cerco un parcheggio"
+    },
+    {
+      "id": 243,
+      "it": "Dove posso lasciare la macchina?",
+      "de": "Wo kann ich das Auto abstellen?",
+      "category": 9,
+      "example": "Dove posso lasciare la macchina?"
+    },
+    {
+      "id": 244,
+      "it": "Il traffico è intenso",
+      "de": "Der Verkehr ist stark",
+      "category": 9,
+      "example": "Il traffico è intenso"
+    },
+    {
+      "id": 245,
+      "it": "La strada è chiusa",
+      "de": "Die Straße ist gesperrt",
+      "category": 9,
+      "example": "La strada è chiusa"
+    },
+    {
+      "id": 246,
+      "it": "C’è un percorso alternativo?",
+      "de": "Gibt es eine Alternativroute?",
+      "category": 9,
+      "example": "C’è un percorso alternativo?"
+    },
+    {
+      "id": 247,
+      "it": "Ci siamo persi",
+      "de": "Wir haben uns verfahren",
+      "category": 9,
+      "example": "Ci siamo persi"
+    },
+    {
+      "id": 248,
+      "it": "Controllo la mappa",
+      "de": "Ich schaue auf die Karte",
+      "category": 9,
+      "example": "Controllo la mappa"
+    },
+    {
+      "id": 249,
+      "it": "Quanto costa il biglietto?",
+      "de": "Wie viel kostet die Fahrkarte?",
+      "category": 9,
+      "example": "Quanto costa il biglietto?"
+    },
+    {
+      "id": 250,
+      "it": "Un biglietto di andata e ritorno",
+      "de": "Eine Hin- und Rückfahrkarte",
+      "category": 9,
+      "example": "Un biglietto di andata e ritorno"
+    },
+    {
+      "id": 251,
+      "it": "Ho una prenotazione a mio nome",
+      "de": "Ich habe eine Reservierung auf meinen Namen",
+      "category": 10,
+      "example": "Ho una prenotazione a mio nome"
+    },
+    {
+      "id": 252,
+      "it": "Vorrei fare il check-in",
+      "de": "Ich möchte einchecken",
+      "category": 10,
+      "example": "Vorrei fare il check-in"
+    },
+    {
+      "id": 253,
+      "it": "A che ora è il check-out?",
+      "de": "Um wie viel Uhr ist Check-out?",
+      "category": 10,
+      "example": "A che ora è il check-out?"
+    },
+    {
+      "id": 254,
+      "it": "La camera è già pronta?",
+      "de": "Ist das Zimmer schon fertig?",
+      "category": 10,
+      "example": "La camera è già pronta?"
+    },
+    {
+      "id": 255,
+      "it": "Posso lasciare i bagagli?",
+      "de": "Kann ich das Gepäck abstellen?",
+      "category": 10,
+      "example": "Posso lasciare i bagagli?"
+    },
+    {
+      "id": 256,
+      "it": "La colazione è inclusa?",
+      "de": "Ist das Frühstück inbegriffen?",
+      "category": 10,
+      "example": "La colazione è inclusa?"
+    },
+    {
+      "id": 257,
+      "it": "C’è una camera tranquilla?",
+      "de": "Gibt es ein ruhiges Zimmer?",
+      "category": 10,
+      "example": "C’è una camera tranquilla?"
+    },
+    {
+      "id": 258,
+      "it": "Preferisco un letto matrimoniale",
+      "de": "Ich bevorzuge ein Doppelbett",
+      "category": 10,
+      "example": "Preferisco un letto matrimoniale"
+    },
+    {
+      "id": 259,
+      "it": "L’aria condizionata non funziona",
+      "de": "Die Klimaanlage funktioniert nicht",
+      "category": 10,
+      "example": "L’aria condizionata non funziona"
+    },
+    {
+      "id": 260,
+      "it": "Non c’è acqua calda",
+      "de": "Es gibt kein warmes Wasser",
+      "category": 10,
+      "example": "Non c’è acqua calda"
+    },
+    {
+      "id": 261,
+      "it": "Mi serve un altro asciugamano",
+      "de": "Ich brauche ein weiteres Handtuch",
+      "category": 10,
+      "example": "Mi serve un altro asciugamano"
+    },
+    {
+      "id": 262,
+      "it": "La chiave non funziona",
+      "de": "Der Schlüssel funktioniert nicht",
+      "category": 10,
+      "example": "La chiave non funziona"
+    },
+    {
+      "id": 263,
+      "it": "Potete aiutarmi?",
+      "de": "Können Sie mir helfen?",
+      "category": 10,
+      "example": "Potete aiutarmi?"
+    },
+    {
+      "id": 264,
+      "it": "C’è una farmacia vicino?",
+      "de": "Gibt es eine Apotheke in der Nähe?",
+      "category": 10,
+      "example": "C’è una farmacia vicino?"
+    },
+    {
+      "id": 265,
+      "it": "Dove posso noleggiare una bici?",
+      "de": "Wo kann ich ein Fahrrad mieten?",
+      "category": 10,
+      "example": "Dove posso noleggiare una bici?"
+    },
+    {
+      "id": 266,
+      "it": "Vorrei visitare il centro storico",
+      "de": "Ich möchte die Altstadt besuchen",
+      "category": 10,
+      "example": "Vorrei visitare il centro storico"
+    },
+    {
+      "id": 267,
+      "it": "Quali posti meritano una visita?",
+      "de": "Welche Orte sind einen Besuch wert?",
+      "category": 10,
+      "example": "Quali posti meritano una visita?"
+    },
+    {
+      "id": 268,
+      "it": "Ci sono visite guidate?",
+      "de": "Gibt es Führungen?",
+      "category": 10,
+      "example": "Ci sono visite guidate?"
+    },
+    {
+      "id": 269,
+      "it": "A che ora apre il museo?",
+      "de": "Wann öffnet das Museum?",
+      "category": 10,
+      "example": "A che ora apre il museo?"
+    },
+    {
+      "id": 270,
+      "it": "È necessario prenotare?",
+      "de": "Muss man reservieren?",
+      "category": 10,
+      "example": "È necessario prenotare?"
+    },
+    {
+      "id": 271,
+      "it": "Quanto dura la visita?",
+      "de": "Wie lange dauert die Besichtigung?",
+      "category": 10,
+      "example": "Quanto dura la visita?"
+    },
+    {
+      "id": 272,
+      "it": "Vorrei restare una notte in più",
+      "de": "Ich möchte eine Nacht länger bleiben",
+      "category": 10,
+      "example": "Vorrei restare una notte in più"
+    },
+    {
+      "id": 273,
+      "it": "La vista è bellissima",
+      "de": "Die Aussicht ist wunderschön",
+      "category": 10,
+      "example": "La vista è bellissima"
+    },
+    {
+      "id": 274,
+      "it": "Il soggiorno è stato piacevole",
+      "de": "Der Aufenthalt war angenehm",
+      "category": 10,
+      "example": "Il soggiorno è stato piacevole"
+    },
+    {
+      "id": 275,
+      "it": "Possiamo avere una fattura?",
+      "de": "Können wir eine Rechnung bekommen?",
+      "category": 10,
+      "example": "Possiamo avere una fattura?"
+    },
+    {
+      "id": 276,
+      "it": "Di cosa ti occupi esattamente?",
+      "de": "Was machst du genau beruflich?",
+      "category": 11,
+      "example": "Di cosa ti occupi esattamente?"
+    },
+    {
+      "id": 277,
+      "it": "Lavoro in un’azienda internazionale",
+      "de": "Ich arbeite in einem internationalen Unternehmen",
+      "category": 11,
+      "example": "Lavoro in un’azienda internazionale"
+    },
+    {
+      "id": 278,
+      "it": "Mi occupo di risorse umane",
+      "de": "Ich bin im Personalwesen tätig",
+      "category": 11,
+      "example": "Mi occupo di risorse umane"
+    },
+    {
+      "id": 279,
+      "it": "Abbiamo una riunione importante",
+      "de": "Wir haben eine wichtige Besprechung",
+      "category": 11,
+      "example": "Abbiamo una riunione importante"
+    },
+    {
+      "id": 280,
+      "it": "Devo preparare una presentazione",
+      "de": "Ich muss eine Präsentation vorbereiten",
+      "category": 11,
+      "example": "Devo preparare una presentazione"
+    },
+    {
+      "id": 281,
+      "it": "Possiamo parlarne dopo?",
+      "de": "Können wir später darüber sprechen?",
+      "category": 11,
+      "example": "Possiamo parlarne dopo?"
+    },
+    {
+      "id": 282,
+      "it": "Qual è il tuo punto di vista?",
+      "de": "Was ist dein Standpunkt?",
+      "category": 11,
+      "example": "Qual è il tuo punto di vista?"
+    },
+    {
+      "id": 283,
+      "it": "Vorrei aggiungere una cosa",
+      "de": "Ich möchte etwas hinzufügen",
+      "category": 11,
+      "example": "Vorrei aggiungere una cosa"
+    },
+    {
+      "id": 284,
+      "it": "Possiamo trovare una soluzione",
+      "de": "Wir können eine Lösung finden",
+      "category": 11,
+      "example": "Possiamo trovare una soluzione"
+    },
+    {
+      "id": 285,
+      "it": "Dobbiamo prendere una decisione",
+      "de": "Wir müssen eine Entscheidung treffen",
+      "category": 11,
+      "example": "Dobbiamo prendere una decisione"
+    },
+    {
+      "id": 286,
+      "it": "È una questione urgente",
+      "de": "Das ist eine dringende Angelegenheit",
+      "category": 11,
+      "example": "È una questione urgente"
+    },
+    {
+      "id": 287,
+      "it": "Abbiamo poco tempo",
+      "de": "Wir haben wenig Zeit",
+      "category": 11,
+      "example": "Abbiamo poco tempo"
+    },
+    {
+      "id": 288,
+      "it": "Serve più collaborazione",
+      "de": "Es braucht mehr Zusammenarbeit",
+      "category": 11,
+      "example": "Serve più collaborazione"
+    },
+    {
+      "id": 289,
+      "it": "Sono responsabile del progetto",
+      "de": "Ich bin für das Projekt verantwortlich",
+      "category": 11,
+      "example": "Sono responsabile del progetto"
+    },
+    {
+      "id": 290,
+      "it": "Chi se ne occupa?",
+      "de": "Wer kümmert sich darum?",
+      "category": 11,
+      "example": "Chi se ne occupa?"
+    },
+    {
+      "id": 291,
+      "it": "Ti mando un messaggio",
+      "de": "Ich schicke dir eine Nachricht",
+      "category": 11,
+      "example": "Ti mando un messaggio"
+    },
+    {
+      "id": 292,
+      "it": "Ho ricevuto la tua email",
+      "de": "Ich habe deine E-Mail erhalten",
+      "category": 11,
+      "example": "Ho ricevuto la tua email"
+    },
+    {
+      "id": 293,
+      "it": "Ti rispondo appena possibile",
+      "de": "Ich antworte dir so bald wie möglich",
+      "category": 11,
+      "example": "Ti rispondo appena possibile"
+    },
+    {
+      "id": 294,
+      "it": "Possiamo sentirci al telefono?",
+      "de": "Können wir telefonieren?",
+      "category": 11,
+      "example": "Possiamo sentirci al telefono?"
+    },
+    {
+      "id": 295,
+      "it": "Il collegamento non funziona",
+      "de": "Die Verbindung funktioniert nicht",
+      "category": 11,
+      "example": "Il collegamento non funziona"
+    },
+    {
+      "id": 296,
+      "it": "Non riesco a sentirti",
+      "de": "Ich kann dich nicht hören",
+      "category": 11,
+      "example": "Non riesco a sentirti"
+    },
+    {
+      "id": 297,
+      "it": "Puoi condividere lo schermo?",
+      "de": "Kannst du den Bildschirm teilen?",
+      "category": 11,
+      "example": "Puoi condividere lo schermo?"
+    },
+    {
+      "id": 298,
+      "it": "Siamo sulla strada giusta",
+      "de": "Wir sind auf dem richtigen Weg",
+      "category": 11,
+      "example": "Siamo sulla strada giusta"
+    },
+    {
+      "id": 299,
+      "it": "Abbiamo raggiunto l’obiettivo",
+      "de": "Wir haben das Ziel erreicht",
+      "category": 11,
+      "example": "Abbiamo raggiunto l’obiettivo"
+    },
+    {
+      "id": 300,
+      "it": "Grazie per il confronto",
+      "de": "Danke für den Austausch",
+      "category": 11,
+      "example": "Grazie per il confronto"
+    },
+    {
+      "id": 301,
+      "it": "Come sta la tua famiglia?",
+      "de": "Wie geht es deiner Familie?",
+      "category": 12,
+      "example": "Come sta la tua famiglia?"
+    },
+    {
+      "id": 302,
+      "it": "Ho due figli",
+      "de": "Ich habe zwei Kinder",
+      "category": 12,
+      "example": "Ho due figli"
+    },
+    {
+      "id": 303,
+      "it": "Mia figlia vive all’estero",
+      "de": "Meine Tochter lebt im Ausland",
+      "category": 12,
+      "example": "Mia figlia vive all’estero"
+    },
+    {
+      "id": 304,
+      "it": "Ci vediamo spesso",
+      "de": "Wir sehen uns oft",
+      "category": 12,
+      "example": "Ci vediamo spesso"
+    },
+    {
+      "id": 305,
+      "it": "Non ci vediamo da tempo",
+      "de": "Wir haben uns lange nicht gesehen",
+      "category": 12,
+      "example": "Non ci vediamo da tempo"
+    },
+    {
+      "id": 306,
+      "it": "Andiamo molto d’accordo",
+      "de": "Wir verstehen uns sehr gut",
+      "category": 12,
+      "example": "Andiamo molto d’accordo"
+    },
+    {
+      "id": 307,
+      "it": "Abbiamo litigato ieri",
+      "de": "Wir haben gestern gestritten",
+      "category": 12,
+      "example": "Abbiamo litigato ieri"
+    },
+    {
+      "id": 308,
+      "it": "Ci siamo chiariti",
+      "de": "Wir haben uns ausgesprochen",
+      "category": 12,
+      "example": "Ci siamo chiariti"
+    },
+    {
+      "id": 309,
+      "it": "È una persona affidabile",
+      "de": "Das ist ein verlässlicher Mensch",
+      "category": 12,
+      "example": "È una persona affidabile"
+    },
+    {
+      "id": 310,
+      "it": "È sempre disponibile",
+      "de": "Er oder sie ist immer hilfsbereit",
+      "category": 12,
+      "example": "È sempre disponibile"
+    },
+    {
+      "id": 311,
+      "it": "Mi manca molto",
+      "de": "Ich vermisse ihn oder sie sehr",
+      "category": 12,
+      "example": "Mi manca molto"
+    },
+    {
+      "id": 312,
+      "it": "Sono contento per te",
+      "de": "Ich freue mich für dich",
+      "category": 12,
+      "example": "Sono contento per te"
+    },
+    {
+      "id": 313,
+      "it": "Ti faccio gli auguri",
+      "de": "Ich wünsche dir alles Gute",
+      "category": 12,
+      "example": "Ti faccio gli auguri"
+    },
+    {
+      "id": 314,
+      "it": "Tanti auguri di buon compleanno",
+      "de": "Alles Gute zum Geburtstag",
+      "category": 12,
+      "example": "Tanti auguri di buon compleanno"
+    },
+    {
+      "id": 315,
+      "it": "Che cosa festeggiate?",
+      "de": "Was feiert ihr?",
+      "category": 12,
+      "example": "Che cosa festeggiate?"
+    },
+    {
+      "id": 316,
+      "it": "Porto qualcosa da bere",
+      "de": "Ich bringe etwas zu trinken mit",
+      "category": 12,
+      "example": "Porto qualcosa da bere"
+    },
+    {
+      "id": 317,
+      "it": "Vuoi venire da noi?",
+      "de": "Möchtest du zu uns kommen?",
+      "category": 12,
+      "example": "Vuoi venire da noi?"
+    },
+    {
+      "id": 318,
+      "it": "Fai come a casa tua",
+      "de": "Fühl dich wie zu Hause",
+      "category": 12,
+      "example": "Fai come a casa tua"
+    },
+    {
+      "id": 319,
+      "it": "Accomodati pure",
+      "de": "Setz dich ruhig",
+      "category": 12,
+      "example": "Accomodati pure"
+    },
+    {
+      "id": 320,
+      "it": "Rimani ancora un po’",
+      "de": "Bleib noch ein bisschen",
+      "category": 12,
+      "example": "Rimani ancora un po’"
+    },
+    {
+      "id": 321,
+      "it": "Grazie dell’invito",
+      "de": "Danke für die Einladung",
+      "category": 12,
+      "example": "Grazie dell’invito"
+    },
+    {
+      "id": 322,
+      "it": "È stata una bella serata",
+      "de": "Es war ein schöner Abend",
+      "category": 12,
+      "example": "È stata una bella serata"
+    },
+    {
+      "id": 323,
+      "it": "Salutami tutti",
+      "de": "Grüß alle von mir",
+      "category": 12,
+      "example": "Salutami tutti"
+    },
+    {
+      "id": 324,
+      "it": "Ci mancherai",
+      "de": "Du wirst uns fehlen",
+      "category": 12,
+      "example": "Ci mancherai"
+    },
+    {
+      "id": 325,
+      "it": "Spero che tu stia bene",
+      "de": "Ich hoffe, dir geht es gut",
+      "category": 12,
+      "example": "Spero che tu stia bene"
+    },
+    {
+      "id": 326,
+      "it": "Non mi sento molto bene",
+      "de": "Ich fühle mich nicht besonders gut",
+      "category": 13,
+      "example": "Non mi sento molto bene"
+    },
+    {
+      "id": 327,
+      "it": "Ho mal di testa",
+      "de": "Ich habe Kopfschmerzen",
+      "category": 13,
+      "example": "Ho mal di testa"
+    },
+    {
+      "id": 328,
+      "it": "Mi fa male la schiena",
+      "de": "Mein Rücken tut weh",
+      "category": 13,
+      "example": "Mi fa male la schiena"
+    },
+    {
+      "id": 329,
+      "it": "Ho un po’ di febbre",
+      "de": "Ich habe etwas Fieber",
+      "category": 13,
+      "example": "Ho un po’ di febbre"
+    },
+    {
+      "id": 330,
+      "it": "Mi gira la testa",
+      "de": "Mir ist schwindelig",
+      "category": 13,
+      "example": "Mi gira la testa"
+    },
+    {
+      "id": 331,
+      "it": "Ho bisogno di riposare",
+      "de": "Ich muss mich ausruhen",
+      "category": 13,
+      "example": "Ho bisogno di riposare"
+    },
+    {
+      "id": 332,
+      "it": "Dov’è la farmacia più vicina?",
+      "de": "Wo ist die nächste Apotheke?",
+      "category": 13,
+      "example": "Dov’è la farmacia più vicina?"
+    },
+    {
+      "id": 333,
+      "it": "Mi serve un medico",
+      "de": "Ich brauche einen Arzt",
+      "category": 13,
+      "example": "Mi serve un medico"
+    },
+    {
+      "id": 334,
+      "it": "È un’emergenza",
+      "de": "Es ist ein Notfall",
+      "category": 13,
+      "example": "È un’emergenza"
+    },
+    {
+      "id": 335,
+      "it": "Può chiamare un’ambulanza?",
+      "de": "Können Sie einen Krankenwagen rufen?",
+      "category": 13,
+      "example": "Può chiamare un’ambulanza?"
+    },
+    {
+      "id": 336,
+      "it": "Ho un’allergia",
+      "de": "Ich habe eine Allergie",
+      "category": 13,
+      "example": "Ho un’allergia"
+    },
+    {
+      "id": 337,
+      "it": "Prendo già dei farmaci",
+      "de": "Ich nehme bereits Medikamente",
+      "category": 13,
+      "example": "Prendo già dei farmaci"
+    },
+    {
+      "id": 338,
+      "it": "Come si prende questo?",
+      "de": "Wie nimmt man das ein?",
+      "category": 13,
+      "example": "Come si prende questo?"
+    },
+    {
+      "id": 339,
+      "it": "Quante volte al giorno?",
+      "de": "Wie oft am Tag?",
+      "category": 13,
+      "example": "Quante volte al giorno?"
+    },
+    {
+      "id": 340,
+      "it": "Prima o dopo i pasti?",
+      "de": "Vor oder nach dem Essen?",
+      "category": 13,
+      "example": "Prima o dopo i pasti?"
+    },
+    {
+      "id": 341,
+      "it": "Devo bere più acqua",
+      "de": "Ich muss mehr Wasser trinken",
+      "category": 13,
+      "example": "Devo bere più acqua"
+    },
+    {
+      "id": 342,
+      "it": "Mi sento meglio",
+      "de": "Ich fühle mich besser",
+      "category": 13,
+      "example": "Mi sento meglio"
+    },
+    {
+      "id": 343,
+      "it": "Sto recuperando",
+      "de": "Ich erhole mich gerade",
+      "category": 13,
+      "example": "Sto recuperando"
+    },
+    {
+      "id": 344,
+      "it": "Ho dormito male",
+      "de": "Ich habe schlecht geschlafen",
+      "category": 13,
+      "example": "Ho dormito male"
+    },
+    {
+      "id": 345,
+      "it": "Sono molto stanco",
+      "de": "Ich bin sehr müde",
+      "category": 13,
+      "example": "Sono molto stanco"
+    },
+    {
+      "id": 346,
+      "it": "Ho bisogno di una pausa",
+      "de": "Ich brauche eine Pause",
+      "category": 13,
+      "example": "Ho bisogno di una pausa"
+    },
+    {
+      "id": 347,
+      "it": "Può parlare più lentamente?",
+      "de": "Können Sie langsamer sprechen?",
+      "category": 13,
+      "example": "Può parlare più lentamente?"
+    },
+    {
+      "id": 348,
+      "it": "Non ho capito bene",
+      "de": "Ich habe nicht richtig verstanden",
+      "category": 13,
+      "example": "Non ho capito bene"
+    },
+    {
+      "id": 349,
+      "it": "Mi può aiutare, per favore?",
+      "de": "Können Sie mir bitte helfen?",
+      "category": 13,
+      "example": "Mi può aiutare, per favore?"
+    },
+    {
+      "id": 350,
+      "it": "Grazie, adesso va meglio",
+      "de": "Danke, jetzt geht es besser",
+      "category": 13,
+      "example": "Grazie, adesso va meglio"
+    },
+    {
+      "id": 351,
+      "it": "Che cosa fai per rilassarti?",
+      "de": "Was machst du zur Entspannung?",
+      "category": 14,
+      "example": "Che cosa fai per rilassarti?"
+    },
+    {
+      "id": 352,
+      "it": "Mi piace andare in moto",
+      "de": "Ich fahre gern Motorrad",
+      "category": 14,
+      "example": "Mi piace andare in moto"
+    },
+    {
+      "id": 353,
+      "it": "Mi piace stare in barca",
+      "de": "Ich bin gern auf dem Boot",
+      "category": 14,
+      "example": "Mi piace stare in barca"
+    },
+    {
+      "id": 354,
+      "it": "Faccio una passeggiata ogni giorno",
+      "de": "Ich gehe jeden Tag spazieren",
+      "category": 14,
+      "example": "Faccio una passeggiata ogni giorno"
+    },
+    {
+      "id": 355,
+      "it": "Una volta correvo molto",
+      "de": "Früher bin ich viel gelaufen",
+      "category": 14,
+      "example": "Una volta correvo molto"
+    },
+    {
+      "id": 356,
+      "it": "Vorrei tornare ad allenarmi",
+      "de": "Ich würde gern wieder trainieren",
+      "category": 14,
+      "example": "Vorrei tornare ad allenarmi"
+    },
+    {
+      "id": 357,
+      "it": "Suono un po’ la chitarra",
+      "de": "Ich spiele ein bisschen Gitarre",
+      "category": 14,
+      "example": "Suono un po’ la chitarra"
+    },
+    {
+      "id": 358,
+      "it": "Mi piace ascoltare musica",
+      "de": "Ich höre gern Musik",
+      "category": 14,
+      "example": "Mi piace ascoltare musica"
+    },
+    {
+      "id": 359,
+      "it": "Che genere di musica preferisci?",
+      "de": "Welche Musikrichtung bevorzugst du?",
+      "category": 14,
+      "example": "Che genere di musica preferisci?"
+    },
+    {
+      "id": 360,
+      "it": "Hai visto questa serie?",
+      "de": "Hast du diese Serie gesehen?",
+      "category": 14,
+      "example": "Hai visto questa serie?"
+    },
+    {
+      "id": 361,
+      "it": "È un libro interessante",
+      "de": "Das ist ein interessantes Buch",
+      "category": 14,
+      "example": "È un libro interessante"
+    },
+    {
+      "id": 362,
+      "it": "Mi piace fotografare",
+      "de": "Ich fotografiere gern",
+      "category": 14,
+      "example": "Mi piace fotografare"
+    },
+    {
+      "id": 363,
+      "it": "Passo tempo con gli amici",
+      "de": "Ich verbringe Zeit mit Freunden",
+      "category": 14,
+      "example": "Passo tempo con gli amici"
+    },
+    {
+      "id": 364,
+      "it": "Nel weekend mi riposo",
+      "de": "Am Wochenende ruhe ich mich aus",
+      "category": 14,
+      "example": "Nel weekend mi riposo"
+    },
+    {
+      "id": 365,
+      "it": "Preferisco stare all’aperto",
+      "de": "Ich bin lieber draußen",
+      "category": 14,
+      "example": "Preferisco stare all’aperto"
+    },
+    {
+      "id": 366,
+      "it": "Mi piace scoprire posti nuovi",
+      "de": "Ich entdecke gern neue Orte",
+      "category": 14,
+      "example": "Mi piace scoprire posti nuovi"
+    },
+    {
+      "id": 367,
+      "it": "Vorrei imparare a cucinare",
+      "de": "Ich würde gern kochen lernen",
+      "category": 14,
+      "example": "Vorrei imparare a cucinare"
+    },
+    {
+      "id": 368,
+      "it": "Facciamo qualcosa insieme?",
+      "de": "Machen wir etwas zusammen?",
+      "category": 14,
+      "example": "Facciamo qualcosa insieme?"
+    },
+    {
+      "id": 369,
+      "it": "Hai qualche consiglio?",
+      "de": "Hast du einen Tipp?",
+      "category": 14,
+      "example": "Hai qualche consiglio?"
+    },
+    {
+      "id": 370,
+      "it": "Non sono molto bravo",
+      "de": "Ich bin nicht besonders gut darin",
+      "category": 14,
+      "example": "Non sono molto bravo"
+    },
+    {
+      "id": 371,
+      "it": "Sto ancora imparando",
+      "de": "Ich lerne noch",
+      "category": 14,
+      "example": "Sto ancora imparando"
+    },
+    {
+      "id": 372,
+      "it": "È più difficile del previsto",
+      "de": "Es ist schwieriger als erwartet",
+      "category": 14,
+      "example": "È più difficile del previsto"
+    },
+    {
+      "id": 373,
+      "it": "Mi diverte tantissimo",
+      "de": "Es macht mir riesigen Spaß",
+      "category": 14,
+      "example": "Mi diverte tantissimo"
+    },
+    {
+      "id": 374,
+      "it": "Mi piacerebbe provarci",
+      "de": "Ich würde es gern versuchen",
+      "category": 14,
+      "example": "Mi piacerebbe provarci"
+    },
+    {
+      "id": 375,
+      "it": "Ne parliamo la prossima volta",
+      "de": "Wir reden nächstes Mal darüber",
+      "category": 14,
+      "example": "Ne parliamo la prossima volta"
+    },
+    {
+      "id": 376,
+      "it": "Ti racconto una cosa",
+      "de": "Ich erzähle dir etwas",
+      "category": 15,
+      "example": "Ti racconto una cosa"
+    },
+    {
+      "id": 377,
+      "it": "È successo qualcosa di strano",
+      "de": "Etwas Seltsames ist passiert",
+      "category": 15,
+      "example": "È successo qualcosa di strano"
+    },
+    {
+      "id": 378,
+      "it": "All’inizio era tutto normale",
+      "de": "Am Anfang war alles normal",
+      "category": 15,
+      "example": "All’inizio era tutto normale"
+    },
+    {
+      "id": 379,
+      "it": "Poi è cambiato tutto",
+      "de": "Dann hat sich alles verändert",
+      "category": 15,
+      "example": "Poi è cambiato tutto"
+    },
+    {
+      "id": 380,
+      "it": "A un certo punto",
+      "de": "An einem bestimmten Punkt",
+      "category": 15,
+      "example": "A un certo punto"
+    },
+    {
+      "id": 381,
+      "it": "Improvvisamente",
+      "de": "Plötzlich",
+      "category": 15,
+      "example": "Improvvisamente"
+    },
+    {
+      "id": 382,
+      "it": "Nel frattempo",
+      "de": "Inzwischen",
+      "category": 15,
+      "example": "Nel frattempo"
+    },
+    {
+      "id": 383,
+      "it": "Alla fine è andata bene",
+      "de": "Am Ende ist es gut ausgegangen",
+      "category": 15,
+      "example": "Alla fine è andata bene"
+    },
+    {
+      "id": 384,
+      "it": "Per questo motivo",
+      "de": "Aus diesem Grund",
+      "category": 15,
+      "example": "Per questo motivo"
+    },
+    {
+      "id": 385,
+      "it": "Da quel momento",
+      "de": "Seit diesem Moment",
+      "category": 15,
+      "example": "Da quel momento"
+    },
+    {
+      "id": 386,
+      "it": "Come ti dicevo",
+      "de": "Wie ich dir gerade sagte",
+      "category": 15,
+      "example": "Come ti dicevo"
+    },
+    {
+      "id": 387,
+      "it": "In altre parole",
+      "de": "Mit anderen Worten",
+      "category": 15,
+      "example": "In altre parole"
+    },
+    {
+      "id": 388,
+      "it": "Per esempio",
+      "de": "Zum Beispiel",
+      "category": 15,
+      "example": "Per esempio"
+    },
+    {
+      "id": 389,
+      "it": "Soprattutto",
+      "de": "Vor allem",
+      "category": 15,
+      "example": "Soprattutto"
+    },
+    {
+      "id": 390,
+      "it": "In generale",
+      "de": "Im Allgemeinen",
+      "category": 15,
+      "example": "In generale"
+    },
+    {
+      "id": 391,
+      "it": "Di solito",
+      "de": "Normalerweise",
+      "category": 15,
+      "example": "Di solito"
+    },
+    {
+      "id": 392,
+      "it": "Ogni tanto",
+      "de": "Ab und zu",
+      "category": 15,
+      "example": "Ogni tanto"
+    },
+    {
+      "id": 393,
+      "it": "Quasi sempre",
+      "de": "Fast immer",
+      "category": 15,
+      "example": "Quasi sempre"
+    },
+    {
+      "id": 394,
+      "it": "Nonostante tutto",
+      "de": "Trotz allem",
+      "category": 15,
+      "example": "Nonostante tutto"
+    },
+    {
+      "id": 395,
+      "it": "Per quanto ne so",
+      "de": "Soweit ich weiß",
+      "category": 15,
+      "example": "Per quanto ne so"
+    },
+    {
+      "id": 396,
+      "it": "A quanto pare",
+      "de": "Anscheinend",
+      "category": 15,
+      "example": "A quanto pare"
+    },
+    {
+      "id": 397,
+      "it": "Da una parte",
+      "de": "Einerseits",
+      "category": 15,
+      "example": "Da una parte"
+    },
+    {
+      "id": 398,
+      "it": "Dall’altra parte",
+      "de": "Andererseits",
+      "category": 15,
+      "example": "Dall’altra parte"
+    },
+    {
+      "id": 399,
+      "it": "In conclusione",
+      "de": "Abschließend",
+      "category": 15,
+      "example": "In conclusione"
+    },
+    {
+      "id": 400,
+      "it": "Per farla breve",
+      "de": "Kurz gesagt",
+      "category": 15,
+      "example": "Per farla breve"
+    },
+    {
+      "id": 401,
+      "it": "Come mai?",
+      "de": "Wieso?",
+      "category": 16,
+      "example": "Come mai?"
+    },
+    {
+      "id": 402,
+      "it": "In che senso?",
+      "de": "In welchem Sinn?",
+      "category": 16,
+      "example": "In che senso?"
+    },
+    {
+      "id": 403,
+      "it": "Che cosa intendi?",
+      "de": "Was meinst du damit?",
+      "category": 16,
+      "example": "Che cosa intendi?"
+    },
+    {
+      "id": 404,
+      "it": "Puoi farmi un esempio?",
+      "de": "Kannst du mir ein Beispiel geben?",
+      "category": 16,
+      "example": "Puoi farmi un esempio?"
+    },
+    {
+      "id": 405,
+      "it": "Potresti ripetere?",
+      "de": "Könntest du das wiederholen?",
+      "category": 16,
+      "example": "Potresti ripetere?"
+    },
+    {
+      "id": 406,
+      "it": "Ho capito bene?",
+      "de": "Habe ich das richtig verstanden?",
+      "category": 16,
+      "example": "Ho capito bene?"
+    },
+    {
+      "id": 407,
+      "it": "Vuoi dire che...",
+      "de": "Willst du sagen, dass ...",
+      "category": 16,
+      "example": "Vuoi dire che..."
+    },
+    {
+      "id": 408,
+      "it": "Non è proprio così",
+      "de": "So ist es nicht ganz",
+      "category": 16,
+      "example": "Non è proprio così"
+    },
+    {
+      "id": 409,
+      "it": "Esattamente!",
+      "de": "Ganz genau!",
+      "category": 16,
+      "example": "Esattamente!"
+    },
+    {
+      "id": 410,
+      "it": "Non necessariamente",
+      "de": "Nicht unbedingt",
+      "category": 16,
+      "example": "Non necessariamente"
+    },
+    {
+      "id": 411,
+      "it": "Assolutamente sì",
+      "de": "Auf jeden Fall ja",
+      "category": 16,
+      "example": "Assolutamente sì"
+    },
+    {
+      "id": 412,
+      "it": "Direi di no",
+      "de": "Ich würde eher nein sagen",
+      "category": 16,
+      "example": "Direi di no"
+    },
+    {
+      "id": 413,
+      "it": "Non importa",
+      "de": "Das macht nichts",
+      "category": 16,
+      "example": "Non importa"
+    },
+    {
+      "id": 414,
+      "it": "Non fa niente",
+      "de": "Schon gut",
+      "category": 16,
+      "example": "Non fa niente"
+    },
+    {
+      "id": 415,
+      "it": "Figurati!",
+      "de": "Keine Ursache!",
+      "category": 16,
+      "example": "Figurati!"
+    },
+    {
+      "id": 416,
+      "it": "Ci mancherebbe!",
+      "de": "Aber selbstverständlich!",
+      "category": 16,
+      "example": "Ci mancherebbe!"
+    },
+    {
+      "id": 417,
+      "it": "Davvero?",
+      "de": "Wirklich?",
+      "category": 16,
+      "example": "Davvero?"
+    },
+    {
+      "id": 418,
+      "it": "Sul serio?",
+      "de": "Im Ernst?",
+      "category": 16,
+      "example": "Sul serio?"
+    },
+    {
+      "id": 419,
+      "it": "Ma dai!",
+      "de": "Ach komm!",
+      "category": 16,
+      "example": "Ma dai!"
+    },
+    {
+      "id": 420,
+      "it": "Che interessante!",
+      "de": "Wie interessant!",
+      "category": 16,
+      "example": "Che interessante!"
+    },
+    {
+      "id": 421,
+      "it": "Non ci credo!",
+      "de": "Das glaube ich nicht!",
+      "category": 16,
+      "example": "Non ci credo!"
+    },
+    {
+      "id": 422,
+      "it": "Hai capito?",
+      "de": "Hast du verstanden?",
+      "category": 16,
+      "example": "Hai capito?"
+    },
+    {
+      "id": 423,
+      "it": "Ti torna?",
+      "de": "Ist das für dich nachvollziehbar?",
+      "category": 16,
+      "example": "Ti torna?"
+    },
+    {
+      "id": 424,
+      "it": "Fammi pensare",
+      "de": "Lass mich nachdenken",
+      "category": 16,
+      "example": "Fammi pensare"
+    },
+    {
+      "id": 425,
+      "it": "Aspetta un momento",
+      "de": "Warte einen Moment",
+      "category": 16,
+      "example": "Aspetta un momento"
+    },
+    {
+      "id": 426,
+      "it": "C’è stato un malinteso",
+      "de": "Es gab ein Missverständnis",
+      "category": 17,
+      "example": "C’è stato un malinteso"
+    },
+    {
+      "id": 427,
+      "it": "Non era mia intenzione",
+      "de": "Das war nicht meine Absicht",
+      "category": 17,
+      "example": "Non era mia intenzione"
+    },
+    {
+      "id": 428,
+      "it": "Mi sono spiegato male",
+      "de": "Ich habe mich schlecht ausgedrückt",
+      "category": 17,
+      "example": "Mi sono spiegato male"
+    },
+    {
+      "id": 429,
+      "it": "Forse ho sbagliato",
+      "de": "Vielleicht habe ich einen Fehler gemacht",
+      "category": 17,
+      "example": "Forse ho sbagliato"
+    },
+    {
+      "id": 430,
+      "it": "Non è colpa tua",
+      "de": "Es ist nicht deine Schuld",
+      "category": 17,
+      "example": "Non è colpa tua"
+    },
+    {
+      "id": 431,
+      "it": "Cerchiamo di capire",
+      "de": "Versuchen wir es zu verstehen",
+      "category": 17,
+      "example": "Cerchiamo di capire"
+    },
+    {
+      "id": 432,
+      "it": "Qual è il problema esattamente?",
+      "de": "Was genau ist das Problem?",
+      "category": 17,
+      "example": "Qual è il problema esattamente?"
+    },
+    {
+      "id": 433,
+      "it": "Che cosa possiamo fare?",
+      "de": "Was können wir tun?",
+      "category": 17,
+      "example": "Che cosa possiamo fare?"
+    },
+    {
+      "id": 434,
+      "it": "C’è un’altra possibilità?",
+      "de": "Gibt es eine andere Möglichkeit?",
+      "category": 17,
+      "example": "C’è un’altra possibilità?"
+    },
+    {
+      "id": 435,
+      "it": "Proviamo in un altro modo",
+      "de": "Versuchen wir es anders",
+      "category": 17,
+      "example": "Proviamo in un altro modo"
+    },
+    {
+      "id": 436,
+      "it": "Facciamo un passo alla volta",
+      "de": "Gehen wir Schritt für Schritt vor",
+      "category": 17,
+      "example": "Facciamo un passo alla volta"
+    },
+    {
+      "id": 437,
+      "it": "Non è così semplice",
+      "de": "Es ist nicht so einfach",
+      "category": 17,
+      "example": "Non è così semplice"
+    },
+    {
+      "id": 438,
+      "it": "Ci serve più tempo",
+      "de": "Wir brauchen mehr Zeit",
+      "category": 17,
+      "example": "Ci serve più tempo"
+    },
+    {
+      "id": 439,
+      "it": "Possiamo trovare un compromesso",
+      "de": "Wir können einen Kompromiss finden",
+      "category": 17,
+      "example": "Possiamo trovare un compromesso"
+    },
+    {
+      "id": 440,
+      "it": "Sono disposto ad ascoltare",
+      "de": "Ich bin bereit zuzuhören",
+      "category": 17,
+      "example": "Sono disposto ad ascoltare"
+    },
+    {
+      "id": 441,
+      "it": "Ti chiedo scusa",
+      "de": "Ich bitte dich um Entschuldigung",
+      "category": 17,
+      "example": "Ti chiedo scusa"
+    },
+    {
+      "id": 442,
+      "it": "Accetto le tue scuse",
+      "de": "Ich nehme deine Entschuldigung an",
+      "category": 17,
+      "example": "Accetto le tue scuse"
+    },
+    {
+      "id": 443,
+      "it": "Lasciamo perdere",
+      "de": "Lassen wir es gut sein",
+      "category": 17,
+      "example": "Lasciamo perdere"
+    },
+    {
+      "id": 444,
+      "it": "Non preoccuparti",
+      "de": "Mach dir keine Sorgen",
+      "category": 17,
+      "example": "Non preoccuparti"
+    },
+    {
+      "id": 445,
+      "it": "Tutto si risolverà",
+      "de": "Alles wird sich lösen",
+      "category": 17,
+      "example": "Tutto si risolverà"
+    },
+    {
+      "id": 446,
+      "it": "È già successo prima",
+      "de": "Das ist schon einmal passiert",
+      "category": 17,
+      "example": "È già successo prima"
+    },
+    {
+      "id": 447,
+      "it": "Non succederà più",
+      "de": "Das wird nicht mehr passieren",
+      "category": 17,
+      "example": "Non succederà più"
+    },
+    {
+      "id": 448,
+      "it": "Prendiamoci una pausa",
+      "de": "Machen wir eine Pause",
+      "category": 17,
+      "example": "Prendiamoci una pausa"
+    },
+    {
+      "id": 449,
+      "it": "Ne riparliamo con calma",
+      "de": "Wir sprechen in Ruhe noch einmal darüber",
+      "category": 17,
+      "example": "Ne riparliamo con calma"
+    },
+    {
+      "id": 450,
+      "it": "Grazie per la pazienza",
+      "de": "Danke für die Geduld",
+      "category": 17,
+      "example": "Grazie per la pazienza"
+    },
+    {
+      "id": 451,
+      "it": "Anche se è tardi",
+      "de": "Auch wenn es spät ist",
+      "category": 18,
+      "example": "Anche se è tardi"
+    },
+    {
+      "id": 452,
+      "it": "Prima di partire",
+      "de": "Bevor wir losfahren",
+      "category": 18,
+      "example": "Prima di partire"
+    },
+    {
+      "id": 453,
+      "it": "Dopo aver mangiato",
+      "de": "Nachdem wir gegessen haben",
+      "category": 18,
+      "example": "Dopo aver mangiato"
+    },
+    {
+      "id": 454,
+      "it": "Mentre aspettiamo",
+      "de": "Während wir warten",
+      "category": 18,
+      "example": "Mentre aspettiamo"
+    },
+    {
+      "id": 455,
+      "it": "Finché c’è tempo",
+      "de": "Solange Zeit ist",
+      "category": 18,
+      "example": "Finché c’è tempo"
+    },
+    {
+      "id": 456,
+      "it": "Appena arrivo",
+      "de": "Sobald ich ankomme",
+      "category": 18,
+      "example": "Appena arrivo"
+    },
+    {
+      "id": 457,
+      "it": "Ogni volta che vengo",
+      "de": "Jedes Mal, wenn ich komme",
+      "category": 18,
+      "example": "Ogni volta che vengo"
+    },
+    {
+      "id": 458,
+      "it": "Invece di aspettare",
+      "de": "Anstatt zu warten",
+      "category": 18,
+      "example": "Invece di aspettare"
+    },
+    {
+      "id": 459,
+      "it": "Oltre a questo",
+      "de": "Darüber hinaus",
+      "category": 18,
+      "example": "Oltre a questo"
+    },
+    {
+      "id": 460,
+      "it": "A causa del traffico",
+      "de": "Wegen des Verkehrs",
+      "category": 18,
+      "example": "A causa del traffico"
+    },
+    {
+      "id": 461,
+      "it": "Grazie al tuo aiuto",
+      "de": "Dank deiner Hilfe",
+      "category": 18,
+      "example": "Grazie al tuo aiuto"
+    },
+    {
+      "id": 462,
+      "it": "A differenza di ieri",
+      "de": "Im Unterschied zu gestern",
+      "category": 18,
+      "example": "A differenza di ieri"
+    },
+    {
+      "id": 463,
+      "it": "Rispetto all’anno scorso",
+      "de": "Im Vergleich zum Vorjahr",
+      "category": 18,
+      "example": "Rispetto all’anno scorso"
+    },
+    {
+      "id": 464,
+      "it": "Per quanto riguarda il lavoro",
+      "de": "Was die Arbeit betrifft",
+      "category": 18,
+      "example": "Per quanto riguarda il lavoro"
+    },
+    {
+      "id": 465,
+      "it": "Nel caso in cui piova",
+      "de": "Falls es regnet",
+      "category": 18,
+      "example": "Nel caso in cui piova"
+    },
+    {
+      "id": 466,
+      "it": "A condizione che sia possibile",
+      "de": "Unter der Bedingung, dass es möglich ist",
+      "category": 18,
+      "example": "A condizione che sia possibile"
+    },
+    {
+      "id": 467,
+      "it": "Senza dover aspettare",
+      "de": "Ohne warten zu müssen",
+      "category": 18,
+      "example": "Senza dover aspettare"
+    },
+    {
+      "id": 468,
+      "it": "Per poter entrare",
+      "de": "Um hineingehen zu können",
+      "category": 18,
+      "example": "Per poter entrare"
+    },
+    {
+      "id": 469,
+      "it": "In modo da capire",
+      "de": "Damit man es versteht",
+      "category": 18,
+      "example": "In modo da capire"
+    },
+    {
+      "id": 470,
+      "it": "Vale a dire",
+      "de": "Das heißt",
+      "category": 18,
+      "example": "Vale a dire"
+    },
+    {
+      "id": 471,
+      "it": "Sia questo sia quello",
+      "de": "Sowohl dieses als auch jenes",
+      "category": 18,
+      "example": "Sia questo sia quello"
+    },
+    {
+      "id": 472,
+      "it": "Né oggi né domani",
+      "de": "Weder heute noch morgen",
+      "category": 18,
+      "example": "Né oggi né domani"
+    },
+    {
+      "id": 473,
+      "it": "Non solo questo",
+      "de": "Nicht nur das",
+      "category": 18,
+      "example": "Non solo questo"
+    },
+    {
+      "id": 474,
+      "it": "Più o meno",
+      "de": "Mehr oder weniger",
+      "category": 18,
+      "example": "Più o meno"
+    },
+    {
+      "id": 475,
+      "it": "Almeno per ora",
+      "de": "Zumindest vorerst",
+      "category": 18,
+      "example": "Almeno per ora"
+    },
+    {
+      "id": 476,
+      "it": "Parlo un po’ di spagnolo",
+      "de": "Ich spreche etwas Spanisch",
+      "category": 19,
+      "example": "Parlo un po’ di spagnolo"
+    },
+    {
+      "id": 477,
+      "it": "Capisco più di quanto parlo",
+      "de": "Ich verstehe mehr, als ich spreche",
+      "category": 19,
+      "example": "Capisco più di quanto parlo"
+    },
+    {
+      "id": 478,
+      "it": "Le due lingue sono simili",
+      "de": "Die beiden Sprachen sind ähnlich",
+      "category": 19,
+      "example": "Le due lingue sono simili"
+    },
+    {
+      "id": 479,
+      "it": "Ma non sono uguali",
+      "de": "Aber sie sind nicht gleich",
+      "category": 19,
+      "example": "Ma non sono uguali"
+    },
+    {
+      "id": 480,
+      "it": "A volte confondo le parole",
+      "de": "Manchmal verwechsle ich die Wörter",
+      "category": 19,
+      "example": "A volte confondo le parole"
+    },
+    {
+      "id": 481,
+      "it": "Come si dice in italiano?",
+      "de": "Wie sagt man das auf Italienisch?",
+      "category": 19,
+      "example": "Come si dice in italiano?"
+    },
+    {
+      "id": 482,
+      "it": "Si dice così?",
+      "de": "Sagt man das so?",
+      "category": 19,
+      "example": "Si dice così?"
+    },
+    {
+      "id": 483,
+      "it": "Qual è la parola giusta?",
+      "de": "Was ist das richtige Wort?",
+      "category": 19,
+      "example": "Qual è la parola giusta?"
+    },
+    {
+      "id": 484,
+      "it": "Puoi correggermi?",
+      "de": "Kannst du mich korrigieren?",
+      "category": 19,
+      "example": "Puoi correggermi?"
+    },
+    {
+      "id": 485,
+      "it": "Sto cercando le parole",
+      "de": "Ich suche nach den Worten",
+      "category": 19,
+      "example": "Sto cercando le parole"
+    },
+    {
+      "id": 486,
+      "it": "Non conosco questa espressione",
+      "de": "Ich kenne diesen Ausdruck nicht",
+      "category": 19,
+      "example": "Non conosco questa espressione"
+    },
+    {
+      "id": 487,
+      "it": "È un modo di dire?",
+      "de": "Ist das eine Redewendung?",
+      "category": 19,
+      "example": "È un modo di dire?"
+    },
+    {
+      "id": 488,
+      "it": "È una parola formale?",
+      "de": "Ist das ein formelles Wort?",
+      "category": 19,
+      "example": "È una parola formale?"
+    },
+    {
+      "id": 489,
+      "it": "Si usa spesso?",
+      "de": "Verwendet man das häufig?",
+      "category": 19,
+      "example": "Si usa spesso?"
+    },
+    {
+      "id": 490,
+      "it": "Qual è la differenza?",
+      "de": "Was ist der Unterschied?",
+      "category": 19,
+      "example": "Qual è la differenza?"
+    },
+    {
+      "id": 491,
+      "it": "In spagnolo si dice diversamente",
+      "de": "Auf Spanisch sagt man es anders",
+      "category": 19,
+      "example": "In spagnolo si dice diversamente"
+    },
+    {
+      "id": 492,
+      "it": "Attenzione ai falsi amici",
+      "de": "Vorsicht bei falschen Freunden",
+      "category": 19,
+      "example": "Attenzione ai falsi amici"
+    },
+    {
+      "id": 493,
+      "it": "Salire significa andare su",
+      "de": "Salire bedeutet hinaufgehen",
+      "category": 19,
+      "example": "Salire significa andare su"
+    },
+    {
+      "id": 494,
+      "it": "Uscire significa andare fuori",
+      "de": "Uscire bedeutet hinausgehen",
+      "category": 19,
+      "example": "Uscire significa andare fuori"
+    },
+    {
+      "id": 495,
+      "it": "Il burro è un alimento",
+      "de": "Burro ist ein Lebensmittel",
+      "category": 19,
+      "example": "Il burro è un alimento"
+    },
+    {
+      "id": 496,
+      "it": "Il caldo non è il brodo",
+      "de": "Caldo ist nicht Brühe",
+      "category": 19,
+      "example": "Il caldo non è il brodo"
+    },
+    {
+      "id": 497,
+      "it": "La camera può essere una stanza",
+      "de": "Camera kann ein Zimmer sein",
+      "category": 19,
+      "example": "La camera può essere una stanza"
+    },
+    {
+      "id": 498,
+      "it": "La firma è una sottoscrizione",
+      "de": "Firma ist eine Unterschrift",
+      "category": 19,
+      "example": "La firma è una sottoscrizione"
+    },
+    {
+      "id": 499,
+      "it": "Imparo dagli errori",
+      "de": "Ich lerne aus Fehlern",
+      "category": 19,
+      "example": "Imparo dagli errori"
+    },
+    {
+      "id": 500,
+      "it": "Piano piano miglioro",
+      "de": "Nach und nach werde ich besser",
+      "category": 19,
+      "example": "Piano piano miglioro"
+    }
+  ]
+}
